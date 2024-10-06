@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleTemplate/Blueprints/BP_AssetGuideline_Chaos.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
