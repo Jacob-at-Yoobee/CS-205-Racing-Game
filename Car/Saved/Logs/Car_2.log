@@ -1145,3 +1145,11 @@ Minimum required: 527.27
 [2024.10.06-23.34.46:537][107]LogSlate: Window 'Plugins' being destroyed
 [2024.10.06-23.34.46:537][107]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2024.10.06-23.35.41:443][450]LogDerivedDataCache: C:/Users/livfa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.900 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1224 files in 1902 folders with total size 37 MiB.
+[2024.10.07-05.53.09:584][614]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.10.07-05.53.09:682][614]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4444
+[2024.10.07-05.53.12:111][621]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6e687b4d-925e-4524-9e04-5bcc4f2f32bb}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2224.40
+[2024.10.07-05.53.12:146][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.07-05.53.12:170][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.07-05.53.19:794][645]LogUdpMessaging: Error: Socket error detected when communicating with 192.168.1.20:52606. Banning communication to that endpoint.
+[2024.10.07-05.53.20:128][646]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.07-22.31.33:918][647]LogUdpMessaging: Display: Added local interface '192.168.1.13' to multicast group '230.0.0.1:6666'
