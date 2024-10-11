@@ -6,7 +6,33 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/MainMenuMap.umap",
-				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/MenuGameMode.uasset"
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/MenuGameMode.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/MainMenu_UI.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelectionMap.umap",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelectionGameMode.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection/VehicleAdvPawn.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection/SM_Hatchback.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleVarietyPack/Meshes/SM_Hatchback.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection/SM_Pickup.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleVarietyPack/Meshes/SM_Pickup.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection/SM_SportsCar.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleVarietyPack/Meshes/SM_SportsCar.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection/SM_SUV.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleVarietyPack/Meshes/SM_SUV.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection/SM_Truck_Box.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleVarietyPack/Meshes/SM_Truck_Box.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/ai-generated-speed-racing-advertisment-background-with-copy-space-free-photo.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/vecteezy_ai-generated-speed-racing-advertisment-background-with-copy_37247993.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarScreen.umap",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelect_UI.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/brick_wall_spotlights_02.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection_UI.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar2.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar2_Mat.uasset",
+				"C:/Racing_Game/CS-205-Racing-Game/Car/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset"
 			]
 		}
 	]
