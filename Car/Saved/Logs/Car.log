@@ -1853,3 +1853,1245 @@ The asset is referenced by other content.
 [2024.10.11-01.00.03:505][369]LogAutomationController: Ignoring very large delta of 2.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.10.11-01.00.59:173][572]BlueprintLog: New page: Compile CarSelection_UI
 [2024.10.11-01.00.59:211][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.10.11-01.05.35:917][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.10.11-01.05.35:928][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/CarSelectionMap_Auto4
+[2024.10.11-01.05.35:928][766]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelectionMap_Auto4A034F9DE4BB984AE72057BBF6B7F9A55.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarSelectionMap_Auto4.umap'
+[2024.10.11-01.05.35:929][766]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarSelectionMap_Auto4.umap is in the /Temp path, will not scan.
+[2024.10.11-01.05.35:931][766]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/UI_Design/CarSelectionMap_Auto4 is in the /Temp path, will not scan.
+[2024.10.11-01.05.35:931][766]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/UI_Design/CarSelectionMap_Auto4 is in the /Temp path, will not scan.
+[2024.10.11-01.05.35:931][766]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/CarSelectionMap' took 0.047
+[2024.10.11-01.05.35:931][766]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2024.10.11-01.05.35:931][766]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/CarSelection_UI] ([2] browsable assets)...
+[2024.10.11-01.05.35:939][766]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/CarSelection_UI.CarSelection_UI]
+[2024.10.11-01.05.35:939][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/CarSelection_UI]
+[2024.10.11-01.05.35:947][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/CarSelection_UI_Auto4
+[2024.10.11-01.05.35:948][766]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto42C63FC2A4F8B91EF5C9ACBABD5E5AE20.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarSelection_UI_Auto4.uasset'
+[2024.10.11-01.05.35:950][766]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/BP_RaceCar] ([2] browsable assets)...
+[2024.10.11-01.05.36:121][766]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar]
+[2024.10.11-01.05.36:125][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/BP_RaceCar]
+[2024.10.11-01.05.36:125][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/BP_RaceCar" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/BP_RaceCar_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.10.11-01.05.36:133][766]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/BP_RaceCar_Auto4
+[2024.10.11-01.05.36:133][766]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_RaceCar_Auto4AA3A5B004033156C839A8D94FCD7C584.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/BP_RaceCar_Auto4.uasset'
+[2024.10.11-01.05.36:136][766]LogFileHelpers: Auto-saving content packages took 0.206
+[2024.10.11-01.07.07:181][ 40]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.11-01.07.25:848][ 96]LogDerivedDataCache: C:/Users/livfa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.463 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2407 files in 3514 folders with total size 685 MiB.
+[2024.10.11-01.10.26:280][960]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.10.11-01.10.26:280][960]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.26:280][960]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.26:280][960]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.11-01.10.26:280][960]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.26:280][960]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.26:280][960]MaterialEditorStats: Shader Count: 0
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: ================================================
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Total job queries 91, among them cache hits 23 (25.27%)
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 47 distinct outputs (75.81%)
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: RAM used: 1.33 MiB of 819.20 MiB budget. Usage: 0.16%
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Shaders Compiled: 36
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Jobs assigned 37, completed 36 (97.30%)
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Average time worker was idle: 256.96 s
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Time job spent in pending queue: average 0.43 s, longest 2.16 s
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 3.24 s
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Job life time (pending + execution): average 1.44 s, max 3.29
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Shader code size: average 32.197 KiB, min 4.465 KiB, max 88.141 KiB
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.13 s
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Average processing rate: 2.55 jobs/sec
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Total thread time: 22.504 s
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Total thread preprocess time: 2.59 s
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Percentage time preprocessing: 11.51%
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Effective parallelization: 1.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-01.10.27:223][ 29]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 1.14 sec, max 1.81 sec, min 0.42 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.93 sec, max 1.79 sec, min 0.49 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.52% of total time (compiled    7 times, average 1.14 sec, max 1.81 sec, min 0.42 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.88% of total time (compiled    6 times, average 0.93 sec, max 1.79 sec, min 0.49 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.07% of total time (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS - 3.68% of total time (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 3.45% of total time (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.10.11-01.10.27:236][ 30]LogShaderCompilers: Display: ================================================
+[2024.10.11-01.10.27:236][ 30]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.10.11-01.10.27:237][ 30]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.27:237][ 30]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.27:237][ 30]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.11-01.10.27:237][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.27:237][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.27:237][ 30]MaterialEditorStats: Shader Count: 1
+[2024.10.11-01.10.27:370][ 40]MaterialEditorStats: Default UI Pixel Shader: 46 instructions
+[2024.10.11-01.10.27:370][ 40]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.27:370][ 40]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.27:370][ 40]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.11-01.10.27:370][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.27:370][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.27:370][ 40]MaterialEditorStats: Shader Count: 2
+[2024.10.11-01.10.28:995][147]LogMaterialEditor: Saving and Compiling material TextureRenderTarget2D_RaceCar2_Mat
+[2024.10.11-01.10.29:138][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.10.11-01.10.29:248][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.11-01.10.29:263][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-01.10.30:856][147]LogSavePackage: Moving output files for package: /Game/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar2_Mat
+[2024.10.11-01.10.30:858][147]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/TextureRenderTarget2D_RaceCar2_M95C251B045A7B25485DF6D9E79893566.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar2_Mat.uasset'
+[2024.10.11-01.10.30:870][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.60 sec (total: 3.31 sec)
+[2024.10.11-01.10.30:872][147]AssetCheck: New page: Asset Save: TextureRenderTarget2D_RaceCar2_Mat
+[2024.10.11-01.10.30:872][147]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar2_Mat.TextureRenderTarget2D_RaceCar2_Mat
+[2024.10.11-01.10.30:874][147]MaterialEditorStats: Default UI Pixel Shader: 46 instructions
+[2024.10.11-01.10.30:874][147]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.30:874][147]MaterialEditorStats: Instanced UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.30:874][147]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.11-01.10.30:874][147]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.30:874][147]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.30:874][147]MaterialEditorStats: Shader Count: 12
+[2024.10.11-01.10.53:176][511]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.10.11-01.10.53:176][511]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.53:176][511]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.53:176][511]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.11-01.10.53:176][511]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.53:176][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.53:176][511]MaterialEditorStats: Shader Count: 0
+[2024.10.11-01.10.53:231][513]MaterialEditorStats: Default UI Pixel Shader: 46 instructions
+[2024.10.11-01.10.53:231][513]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.53:232][513]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.53:232][513]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.11-01.10.53:232][513]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.53:232][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.53:232][513]MaterialEditorStats: Shader Count: 2
+[2024.10.11-01.10.55:605][657]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.10.11-01.10.55:605][657]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.55:605][657]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.55:605][657]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.11-01.10.55:605][657]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.55:605][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.55:605][657]MaterialEditorStats: Shader Count: 0
+[2024.10.11-01.10.56:743][722]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.10.11-01.10.56:743][722]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.56:743][722]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.56:743][722]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.11-01.10.56:743][722]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.56:743][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.56:743][722]MaterialEditorStats: Shader Count: 1
+[2024.10.11-01.10.56:977][735]MaterialEditorStats: Default UI Pixel Shader: 48 instructions
+[2024.10.11-01.10.56:978][735]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.56:978][735]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.10.11-01.10.56:978][735]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.11-01.10.56:978][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.56:978][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.56:978][735]MaterialEditorStats: Shader Count: 2
+[2024.10.11-01.10.57:476][762]LogMaterialEditor: Saving and Compiling material TextureRenderTarget2D_RaceCar2_Mat
+[2024.10.11-01.10.57:593][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.10.11-01.10.57:717][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.10.11-01.10.57:734][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-01.10.59:571][762]LogSavePackage: Moving output files for package: /Game/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar2_Mat
+[2024.10.11-01.10.59:573][762]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/TextureRenderTarget2D_RaceCar2_MB73B284049783D621047FFA871E7C786.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar2_Mat.uasset'
+[2024.10.11-01.10.59:585][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.85 sec (total: 5.17 sec)
+[2024.10.11-01.10.59:587][762]AssetCheck: New page: Asset Save: TextureRenderTarget2D_RaceCar2_Mat
+[2024.10.11-01.10.59:587][762]LogContentValidation: Display: Validating /Script/Engine.Material /Game/UI_Design/RenderTargets/TextureRenderTarget2D_RaceCar2_Mat.TextureRenderTarget2D_RaceCar2_Mat
+[2024.10.11-01.10.59:589][762]MaterialEditorStats: Default UI Pixel Shader: 48 instructions
+[2024.10.11-01.10.59:591][762]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.59:591][762]MaterialEditorStats: Instanced UI Vertex Shader: 47 instructions
+[2024.10.11-01.10.59:591][762]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.11-01.10.59:591][762]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.11-01.10.59:591][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.11-01.10.59:591][762]MaterialEditorStats: Shader Count: 12
+[2024.10.11-01.10.59:595][762]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.16.57:027][510]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.10.11-01.16.57:039][510]LogContentBrowser: Creating deferred item: NewWorld
+[2024.10.11-01.16.57:063][511]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.10.11-01.16.58:939][625]LogContentBrowser: Attempting asset rename: NewWorld -> test
+[2024.10.11-01.16.58:952][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.16.58:953][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.16.58:957][625]LogContentBrowser: End creating deferred item NewWorld
+[2024.10.11-01.17.01:429][761]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/UI_Design/test does not exist, will not scan.
+[2024.10.11-01.17.04:575][915]LogObjectTools: Deleting 1 worlds: /Game/UI_Design/test.test
+[2024.10.11-01.17.04:575][915]LogObjectTools: Currently 13 active worlds: /Game/UI_Design/CarSelectionMap.CarSelectionMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2024.10.11-01.17.04:615][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2024.10.11-01.17.06:325][915]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.11-01.17.06:332][915]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.17.06:332][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.17.06:362][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.10.11-01.17.06:384][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.10.11-01.17.06:409][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.11-01.17.17:328][139]LogSlate: Window 'New Level' being destroyed
+[2024.10.11-01.17.18:498][139]LogSlate: Window 'Save Content' being destroyed
+[2024.10.11-01.17.18:519][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-01.17.18:744][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.10.11-01.17.18:753][139]LogSavePackage: Moving output files for package: /Game/UI_Design/CarSelectionMap
+[2024.10.11-01.17.18:755][139]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelectionMapC0826246490C24672A67D48A67554F57.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelectionMap.umap'
+[2024.10.11-01.17.18:768][139]LogFileHelpers: Saving map 'CarSelectionMap' took 0.083
+[2024.10.11-01.17.18:783][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 5.43 sec)
+[2024.10.11-01.17.18:783][139]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-01.17.18:793][139]LightingResults: New page: Lighting Build
+[2024.10.11-01.17.18:793][139]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.10.11-01.17.18:870][139]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.17.18:870][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.17.18:916][139]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.17.18:916][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.17.18:916][139]MapCheck: New page: Map Check
+[2024.10.11-01.17.18:916][139]LightingResults: New page: Lighting Build
+[2024.10.11-01.17.18:938][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.17.18:942][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.10.11-01.17.19:152][139]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.10.11-01.17.19:153][139]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.17.19:153][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.17.19:153][139]LogAIModule: Creating AISystem for world Untitled_2
+[2024.10.11-01.17.19:307][139]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-01.17.19:336][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.10.11-01.17.19:338][139]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-01.17.19:338][139]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.336ms to complete.
+[2024.10.11-01.17.19:343][139]AssetCheck: New page: Asset Save: CarSelectionMap
+[2024.10.11-01.17.19:551][139]LogAutomationController: Ignoring very large delta of 5.09 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.17.26:104][182]LogSlate: Window 'Save Level As' being destroyed
+[2024.10.11-01.17.26:245][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/test" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-01.17.26:301][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.10.11-01.17.26:323][182]LogSavePackage: Moving output files for package: /Game/UI_Design/test
+[2024.10.11-01.17.26:323][182]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/test49769F1A440B57BB2A5DCFB5EDDB368F.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap'
+[2024.10.11-01.17.26:346][182]LogFileHelpers: Saving map 'test' took 0.226
+[2024.10.11-01.17.26:347][182]Cmd: MAP LOAD FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-01.17.26:347][182]LightingResults: New page: Lighting Build
+[2024.10.11-01.17.26:347][182]LoadErrors: New page: Loading map: test.umap
+[2024.10.11-01.17.26:374][182]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.17.26:374][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.17.26:374][182]MapCheck: New page: Map Check
+[2024.10.11-01.17.26:374][182]LightingResults: New page: Lighting Build
+[2024.10.11-01.17.26:392][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.17.26:396][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.10.11-01.17.26:402][182]LogAudio: Display: Audio Device (ID: 1) registered with world 'test'.
+[2024.10.11-01.17.26:402][182]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.17.26:403][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.17.26:403][182]LogAIModule: Creating AISystem for world test
+[2024.10.11-01.17.26:491][182]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-01.17.26:515][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.10.11-01.17.26:520][182]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-01.17.26:520][182]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2024.10.11-01.17.26:522][182]LogAssetRegistry: Warning: C:/Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2024.10.11-01.17.26:522][182]AssetCheck: New page: Asset Save: test
+[2024.10.11-01.17.26:522][182]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI_Design/test.test
+[2024.10.11-01.17.26:573][183]LogAutomationController: Ignoring very large delta of 5.42 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.17.31:816][350]LogViewport: Scene viewport resized to 1751x344, mode Windowed.
+[2024.10.11-01.17.31:850][351]LogViewport: Scene viewport resized to 1751x451, mode Windowed.
+[2024.10.11-01.17.31:956][352]LogViewport: Scene viewport resized to 1751x600, mode Windowed.
+[2024.10.11-01.17.32:008][353]LogViewport: Scene viewport resized to 1751x624, mode Windowed.
+[2024.10.11-01.17.32:057][354]LogViewport: Scene viewport resized to 1751x635, mode Windowed.
+[2024.10.11-01.17.32:114][355]LogViewport: Scene viewport resized to 1751x682, mode Windowed.
+[2024.10.11-01.17.32:168][356]LogViewport: Scene viewport resized to 1751x729, mode Windowed.
+[2024.10.11-01.17.32:218][357]LogViewport: Scene viewport resized to 1751x756, mode Windowed.
+[2024.10.11-01.17.32:263][358]LogViewport: Scene viewport resized to 1751x765, mode Windowed.
+[2024.10.11-01.21.02:188][556]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.21.02:246][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.10.11-01.24.10:340][676]LogAutomationController: Ignoring very large delta of 2.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.24.24:965][143]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI_Design/BP_RaceCar.BP_RaceCar_C
+[2024.10.11-01.24.24:965][143]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI_Design/BP_RaceCar.BP_RaceCar_C
+[2024.10.11-01.24.24:976][143]LogActorFactory: Actor Factory spawned Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar as actor: BP_RaceCar_C /Game/UI_Design/test.test:PersistentLevel.BP_RaceCar_C_0
+[2024.10.11-01.24.24:981][143]LogActorFactory: Actor Factory spawned Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar as actor: BP_RaceCar_C /Game/UI_Design/test.test:PersistentLevel.BP_RaceCar_C_0
+[2024.10.11-01.24.24:990][143]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.11-01.24.25:121][144]LogSlate: Took 0.000858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.10.11-01.24.26:924][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI_Design/BP_RaceCar.BP_RaceCar_C
+[2024.10.11-01.24.26:924][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI_Design/BP_RaceCar.BP_RaceCar_C
+[2024.10.11-01.24.26:933][183]LogActorFactory: Actor Factory spawned Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar as actor: BP_RaceCar_C /Game/UI_Design/test.test:PersistentLevel.BP_RaceCar_C_1
+[2024.10.11-01.24.26:940][183]LogActorFactory: Actor Factory spawned Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar as actor: BP_RaceCar_C /Game/UI_Design/test.test:PersistentLevel.BP_RaceCar_C_1
+[2024.10.11-01.24.27:203][185]LogShaderCompilers: Display: ================================================
+[2024.10.11-01.24.27:203][185]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-01.24.27:203][185]LogShaderCompilers: Display: Total job queries 129, among them cache hits 35 (27.13%)
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 62 distinct outputs (72.09%)
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: RAM used: 1.70 MiB of 819.20 MiB budget. Usage: 0.21%
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Shaders Compiled: 60
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Jobs assigned 63, completed 60 (95.24%)
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Average time worker was idle: 225.44 s
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Time job spent in pending queue: average 0.44 s, longest 2.16 s
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 3.24 s
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Job life time (pending + execution): average 1.32 s, max 3.29
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Shader code size: average 30.671 KiB, min 4.465 KiB, max 88.141 KiB
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.78 s
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Average processing rate: 2.89 jobs/sec
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Total thread time: 32.478 s
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Total thread preprocess time: 4.027 s
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Percentage time preprocessing: 12.40%
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Effective parallelization: 1.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.02 sec, max 1.81 sec, min 0.42 sec)
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.89 sec, max 1.79 sec, min 0.49 sec)
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.10.11-01.24.27:204][185]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.76 sec, max 1.14 sec, min 0.48 sec)
+[2024.10.11-01.24.27:205][185]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-01.24.27:205][185]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.20% of total time (compiled    9 times, average 1.02 sec, max 1.81 sec, min 0.42 sec)
+[2024.10.11-01.24.27:205][185]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.84% of total time (compiled    8 times, average 0.89 sec, max 1.79 sec, min 0.49 sec)
+[2024.10.11-01.24.27:205][185]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.99% of total time (compiled    3 times, average 0.76 sec, max 1.14 sec, min 0.48 sec)
+[2024.10.11-01.24.27:206][185]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.03% of total time (compiled    3 times, average 0.54 sec, max 0.63 sec, min 0.50 sec)
+[2024.10.11-01.24.27:206][185]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.39% of total time (compiled    3 times, average 0.47 sec, max 0.58 sec, min 0.41 sec)
+[2024.10.11-01.24.27:206][185]LogShaderCompilers: Display: ================================================
+[2024.10.11-01.24.34:169][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-01.24.34:262][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/test" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.11-01.24.34:324][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.10.11-01.24.34:340][343]LogSavePackage: Moving output files for package: /Game/UI_Design/test
+[2024.10.11-01.24.34:342][343]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/test1614387E4EE44FFA614A68A4C55480F9.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap'
+[2024.10.11-01.24.34:351][343]LogFileHelpers: Saving map 'test' took 0.090
+[2024.10.11-01.24.34:366][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 5.63 sec)
+[2024.10.11-01.24.34:368][343]AssetCheck: New page: Asset Save: test
+[2024.10.11-01.24.34:368][343]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI_Design/test.test
+[2024.10.11-01.27.18:527][711]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.27.18:584][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.10.11-01.27.21:833][875]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.27.21:903][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.10.11-01.28.00:640][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.10.11-01.28.03:331][290]LogSlate: Window 'Save Content' being destroyed
+[2024.10.11-01.28.03:357][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.11-01.28.03:578][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/BP_RaceCar" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/BP_RaceCar.uasset" SILENT=true
+[2024.10.11-01.28.03:591][290]LogSavePackage: Moving output files for package: /Game/UI_Design/BP_RaceCar
+[2024.10.11-01.28.03:592][290]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_RaceCarF53F29B34B415724431F11B6803A3C70.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/BP_RaceCar.uasset'
+[2024.10.11-01.28.03:598][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/CarSelection_UI" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection_UI.uasset" SILENT=true
+[2024.10.11-01.28.03:607][290]LogSavePackage: Moving output files for package: /Game/UI_Design/CarSelection_UI
+[2024.10.11-01.28.03:608][290]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI5D0838F24EDDAC1C4034229F5F97B55B.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection_UI.uasset'
+[2024.10.11-01.28.03:624][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms (total: 5.89 sec)
+[2024.10.11-01.28.03:748][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.28.03:750][290]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI_Design/CarSelectionMap.CarSelectionMap
+[2024.10.11-01.28.03:750][290]Cmd: MAP LOAD FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelectionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-01.28.03:750][290]LightingResults: New page: Lighting Build
+[2024.10.11-01.28.03:750][290]LoadErrors: New page: Loading map: CarSelectionMap.umap
+[2024.10.11-01.28.03:782][290]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.28.03:782][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.28.03:783][290]MapCheck: New page: Map Check
+[2024.10.11-01.28.03:783][290]LightingResults: New page: Lighting Build
+[2024.10.11-01.28.03:804][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.28.03:807][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.10.11-01.28.03:809][290]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.28.03:809][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.28.03:833][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.11-01.28.03:856][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.10.11-01.28.03:864][290]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarSelectionMap'.
+[2024.10.11-01.28.03:864][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.28.03:865][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.28.03:865][290]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.28.03:920][290]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-01.28.03:947][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.10.11-01.28.03:957][290]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-01.28.03:958][290]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.246ms to complete.
+[2024.10.11-01.28.03:981][290]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.11-01.28.03:981][290]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar
+[2024.10.11-01.28.03:981][290]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI_Design/CarSelection_UI.CarSelection_UI
+[2024.10.11-01.28.04:117][290]LogAutomationController: Ignoring very large delta of 3.51 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.28.06:251][386]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.28.06:268][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.28.06:276][386]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:28:06 am)
+[2024.10.11-01.28.06:276][386]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2024.10.11-01.28.06:281][386]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.10.11-01.28.06:293][387]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.28.06:295][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002246s)
+[2024.10.11-01.28.06:297][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.002365s)
+[2024.10.11-01.28.06:329][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.10.11-01.28.06:334][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.28.06:335][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.28.06:335][387]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.28.06:336][387]LogPlayLevel: PIE: World Init took: (0.001779s)
+[2024.10.11-01.28.06:336][387]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.11-01.28.06:336][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.28.06:336][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.28.06:336][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.28.06:336][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.28.06:336][387]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.28.06:336][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.28.06:336][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.28.06:336][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.28.06:337][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.28.06:337][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.28.06:337][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.28.06:340][387]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.28.06:478][387]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.28.06:479][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.28.06:479][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.28.06:479][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.28.06:482][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.11-01.28.06:482][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.11-01.28.06:487][387]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.11-01.28.06:487][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.11-01.28.06:487][387]LogAudio: Display: Audio Device (ID: 5) registered with world 'CarSelectionMap'.
+[2024.10.11-01.28.06:487][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.11-01.28.06:487][387]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.11-01.28.06:487][387]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.28.06:487][387]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.28.06:498][387]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.28.06:499][387]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 0) at 2024.10.11-14.28.06
+[2024.10.11-01.28.06:499][387]LogWorld: Bringing up level for play took: 0.000531
+[2024.10.11-01.28.06:502][387]PIE: Server logged in
+[2024.10.11-01.28.06:503][387]PIE: Play in editor total start time 0.235 seconds.
+[2024.10.11-01.28.36:165][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.28.36:165][731]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.28.36:165][731]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.28.36:166][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.28.36:170][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.28.36:178][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.28.36:203][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.28.36:203][731]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.11-01.28.36:203][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.11-01.28.36:206][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.11-01.28.36:226][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.10.11-01.28.36:253][732]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.10.11-01.28.47:987][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.10.11-01.28.48:132][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.28.48:138][283]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI_Design/test.test
+[2024.10.11-01.28.48:138][283]Cmd: MAP LOAD FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-01.28.48:138][283]LightingResults: New page: Lighting Build
+[2024.10.11-01.28.48:138][283]LoadErrors: New page: Loading map: test.umap
+[2024.10.11-01.28.48:179][283]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.28.48:179][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.28.48:179][283]MapCheck: New page: Map Check
+[2024.10.11-01.28.48:179][283]LightingResults: New page: Lighting Build
+[2024.10.11-01.28.48:206][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.28.48:210][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.10.11-01.28.48:214][283]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.28.48:214][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.28.48:242][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.10.11-01.28.48:269][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.10.11-01.28.48:279][283]LogAudio: Display: Audio Device (ID: 1) registered with world 'test'.
+[2024.10.11-01.28.48:279][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.28.48:279][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.28.48:280][283]LogAIModule: Creating AISystem for world test
+[2024.10.11-01.28.48:439][283]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-01.28.48:470][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.10.11-01.28.48:478][283]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-01.28.48:478][283]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2024.10.11-01.29.34:981][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.10.11-01.29.35:087][887]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.29.35:088][887]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI_Design/CarSelectionMap.CarSelectionMap
+[2024.10.11-01.29.35:088][887]Cmd: MAP LOAD FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelectionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.11-01.29.35:088][887]LightingResults: New page: Lighting Build
+[2024.10.11-01.29.35:088][887]LoadErrors: New page: Loading map: CarSelectionMap.umap
+[2024.10.11-01.29.35:117][887]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.29.35:117][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.29.35:118][887]MapCheck: New page: Map Check
+[2024.10.11-01.29.35:118][887]LightingResults: New page: Lighting Build
+[2024.10.11-01.29.35:136][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.29.35:140][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.10.11-01.29.35:143][887]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.29.35:143][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.29.35:166][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.10.11-01.29.35:186][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.11-01.29.35:194][887]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarSelectionMap'.
+[2024.10.11-01.29.35:194][887]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.29.35:194][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.29.35:195][887]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.29.35:244][887]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.11-01.29.35:267][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.11-01.29.35:273][887]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.11-01.29.35:273][887]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2024.10.11-01.29.37:326][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:326][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:326][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:326][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:326][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:326][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:326][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.29.37:327][897]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.11-01.30.04:734][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI_Design/BP_RaceCar.BP_RaceCar_C
+[2024.10.11-01.30.04:734][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI_Design/BP_RaceCar.BP_RaceCar_C
+[2024.10.11-01.30.04:739][183]LogActorFactory: Actor Factory spawned Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar as actor: BP_RaceCar_C /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.BP_RaceCar_C_0
+[2024.10.11-01.30.04:742][183]LogActorFactory: Actor Factory spawned Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar as actor: BP_RaceCar_C /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.BP_RaceCar_C_0
+[2024.10.11-01.30.05:905][230]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI_Design/BP_RaceCar.BP_RaceCar_C
+[2024.10.11-01.30.05:905][230]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/UI_Design/BP_RaceCar.BP_RaceCar_C
+[2024.10.11-01.30.05:912][230]LogActorFactory: Actor Factory spawned Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar as actor: BP_RaceCar_C /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.BP_RaceCar_C_1
+[2024.10.11-01.30.05:916][230]LogActorFactory: Actor Factory spawned Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar as actor: BP_RaceCar_C /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.BP_RaceCar_C_1
+[2024.10.11-01.30.22:717][ 44]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.10.11-01.30.22:717][ 44]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.10.11-01.30.25:901][136]Cmd: DELETE
+[2024.10.11-01.30.25:902][136]Cmd: ACTOR DELETE
+[2024.10.11-01.30.25:926][136]LogEditorActor: Deleted Actor: RectLight
+[2024.10.11-01.30.25:965][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.10.11-01.30.25:977][136]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2024.10.11-01.30.32:689][420]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.10.11-01.30.32:689][420]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.10.11-01.31.14:771][680]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.10.11-01.31.14:771][680]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.10.11-01.31.19:392][834]LogEditorViewport: Clicking Background
+[2024.10.11-01.31.20:851][880]Cmd: DELETE
+[2024.10.11-01.31.20:852][880]Cmd: ACTOR DELETE
+[2024.10.11-01.31.20:861][880]LogEditorActor: Deleted Actor: SpotLight
+[2024.10.11-01.31.20:908][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.10.11-01.31.20:912][880]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2024.10.11-01.31.29:568][189]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.10.11-01.31.29:569][189]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.10.11-01.31.29:577][189]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.DirectionalLight_0
+[2024.10.11-01.31.29:578][189]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.DirectionalLight_0
+[2024.10.11-01.32.07:851][986]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.10.11-01.32.07:852][986]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.10.11-01.32.07:857][986]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.DirectionalLight_1
+[2024.10.11-01.32.07:857][986]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.DirectionalLight_1
+[2024.10.11-01.32.36:357][343]Cmd: DELETE
+[2024.10.11-01.32.36:357][343]Cmd: ACTOR DELETE
+[2024.10.11-01.32.36:360][343]LogEditorActor: Deleted Actor: DirectionalLight
+[2024.10.11-01.32.36:407][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.10.11-01.32.36:411][343]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2024.10.11-01.32.42:660][580]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.10.11-01.32.42:660][580]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.10.11-01.32.42:668][580]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.SkyLight_0
+[2024.10.11-01.32.42:668][580]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/UI_Design/CarSelectionMap.CarSelectionMap:PersistentLevel.SkyLight_0
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: ================================================
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: Total job queries 138, among them cache hits 41 (29.71%)
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: Tracking 90 distinct input hashes that result in 65 distinct outputs (72.22%)
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: RAM used: 1.79 MiB of 819.20 MiB budget. Usage: 0.22%
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: Shaders Compiled: 64
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: Jobs assigned 65, completed 64 (98.46%)
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: Average time worker was idle: 234.29 s
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: Time job spent in pending queue: average 0.43 s, longest 2.16 s
+[2024.10.11-01.32.44:842][635]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 3.24 s
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Job life time (pending + execution): average 1.40 s, max 3.29
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Shader code size: average 31.412 KiB, min 4.465 KiB, max 88.141 KiB
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.56 s
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Jobs were issued in 65 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Total thread time: 38.481 s
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Total thread preprocess time: 4.531 s
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Percentage time preprocessing: 11.78%
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Effective parallelization: 1.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    2 times, average 1.29 sec, max 1.76 sec, min 0.83 sec)
+[2024.10.11-01.32.44:843][635]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    2 times, average 1.18 sec, max 1.58 sec, min 0.78 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.02 sec, max 1.81 sec, min 0.42 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.93 sec, max 1.45 sec, min 0.48 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.89 sec, max 1.79 sec, min 0.49 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.80% of total time (compiled    9 times, average 1.02 sec, max 1.81 sec, min 0.42 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.43% of total time (compiled    8 times, average 0.89 sec, max 1.79 sec, min 0.49 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.66% of total time (compiled    4 times, average 0.93 sec, max 1.45 sec, min 0.48 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS - 6.72% of total time (compiled    2 times, average 1.29 sec, max 1.76 sec, min 0.83 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 6.12% of total time (compiled    2 times, average 1.18 sec, max 1.58 sec, min 0.78 sec)
+[2024.10.11-01.32.44:844][635]LogShaderCompilers: Display: ================================================
+[2024.10.11-01.32.55:205][791]Cmd: DELETE
+[2024.10.11-01.32.55:205][791]Cmd: ACTOR DELETE
+[2024.10.11-01.32.55:210][791]LogEditorActor: Deleted Actor: SkyLight
+[2024.10.11-01.32.55:246][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.10.11-01.32.55:251][791]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2024.10.11-01.33.08:228][245]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.33.08:245][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.33.08:245][245]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:33:08 am)
+[2024.10.11-01.33.08:245][245]LogPlayLevel: Display: Creating online subsystem for client :Context_19
+[2024.10.11-01.33.08:250][245]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.10.11-01.33.08:271][246]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.33.08:274][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002860s)
+[2024.10.11-01.33.08:274][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.002925s)
+[2024.10.11-01.33.08:306][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.10.11-01.33.08:308][246]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.33.08:308][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.33.08:309][246]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.33.08:309][246]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2024.10.11-01.33.08:309][246]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.11-01.33.08:309][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.33.08:309][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.33.08:309][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.33.08:309][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.33.08:309][246]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.33.08:309][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.33.08:309][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.33.08:309][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.33.08:311][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.33.08:311][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.33.08:311][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.33.08:314][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.33.08:452][246]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.33.08:455][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.33.08:456][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.33.08:456][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.33.08:462][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.11-01.33.08:462][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.10.11-01.33.08:466][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.11-01.33.08:466][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.11-01.33.08:466][246]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.11-01.33.08:466][246]LogAudio: Display: Audio Device (ID: 6) registered with world 'CarSelectionMap'.
+[2024.10.11-01.33.08:466][246]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.11-01.33.08:466][246]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.33.08:466][246]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.33.08:470][246]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.33.08:472][246]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 0) at 2024.10.11-14.33.08
+[2024.10.11-01.33.08:472][246]LogWorld: Bringing up level for play took: 0.001154
+[2024.10.11-01.33.08:474][246]PIE: Server logged in
+[2024.10.11-01.33.08:476][246]PIE: Play in editor total start time 0.231 seconds.
+[2024.10.11-01.33.18:664][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.33.18:664][430]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.33.18:664][430]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.33.18:665][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.33.18:675][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.33.18:681][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.33.18:703][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.33.18:704][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.11-01.33.18:704][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.11-01.33.18:706][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.11-01.33.18:719][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.10.11-01.33.18:749][431]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.10.11-01.34.01:889][594]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.34.01:948][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.10.11-01.34.04:923][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.34.04:937][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.34.04:938][673]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:34:04 am)
+[2024.10.11-01.34.04:939][673]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2024.10.11-01.34.04:944][673]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.10.11-01.34.04:964][674]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.34.04:968][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002759s)
+[2024.10.11-01.34.04:968][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.002838s)
+[2024.10.11-01.34.05:004][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.10.11-01.34.05:008][674]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.34.05:009][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.34.05:009][674]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.34.05:010][674]LogPlayLevel: PIE: World Init took: (0.001994s)
+[2024.10.11-01.34.05:010][674]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.11-01.34.05:010][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.34.05:010][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.34.05:010][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.34.05:010][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.34.05:010][674]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.34.05:010][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.34.05:010][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.34.05:010][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.34.05:011][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.34.05:011][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.34.05:011][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.34.05:015][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.34.05:164][674]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.34.05:168][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.34.05:168][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.34.05:168][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.34.05:173][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.10.11-01.34.05:173][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.10.11-01.34.05:176][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.10.11-01.34.05:176][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.10.11-01.34.05:176][674]LogInit: FAudioDevice initialized with ID 7.
+[2024.10.11-01.34.05:176][674]LogAudio: Display: Audio Device (ID: 7) registered with world 'CarSelectionMap'.
+[2024.10.11-01.34.05:176][674]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.11-01.34.05:176][674]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.34.05:176][674]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.34.05:180][674]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.34.05:181][674]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 0) at 2024.10.11-14.34.05
+[2024.10.11-01.34.05:182][674]LogWorld: Bringing up level for play took: 0.000895
+[2024.10.11-01.34.05:183][674]PIE: Server logged in
+[2024.10.11-01.34.05:184][674]PIE: Play in editor total start time 0.249 seconds.
+[2024.10.11-01.34.13:527][818]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.10.11-01.34.22:806][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.34.22:806][146]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.34.22:806][146]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.34.22:806][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.34.22:832][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.34.22:839][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.34.22:862][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.34.22:862][146]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.11-01.34.22:862][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.11-01.34.22:867][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.11-01.34.22:880][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.34.22:886][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.10.11-01.34.22:921][147]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.10.11-01.34.43:916][163]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.34.43:975][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.10.11-01.34.45:975][191]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.34.45:987][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.34.45:987][191]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:34:45 am)
+[2024.10.11-01.34.45:987][191]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2024.10.11-01.34.45:992][191]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.10.11-01.34.46:022][192]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.34.46:026][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003568s)
+[2024.10.11-01.34.46:026][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.003638s)
+[2024.10.11-01.34.46:057][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.10.11-01.34.46:059][192]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.34.46:059][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.34.46:060][192]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.34.46:061][192]LogPlayLevel: PIE: World Init took: (0.001895s)
+[2024.10.11-01.34.46:061][192]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.10.11-01.34.46:061][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.34.46:061][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.34.46:061][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.34.46:061][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.34.46:061][192]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.34.46:061][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.34.46:061][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.34.46:061][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.34.46:062][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.34.46:062][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.34.46:063][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.34.46:068][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.34.46:213][192]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.34.46:215][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.34.46:215][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.34.46:215][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.34.46:218][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.10.11-01.34.46:218][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.10.11-01.34.46:220][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.10.11-01.34.46:220][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.10.11-01.34.46:220][192]LogInit: FAudioDevice initialized with ID 8.
+[2024.10.11-01.34.46:220][192]LogAudio: Display: Audio Device (ID: 8) registered with world 'CarSelectionMap'.
+[2024.10.11-01.34.46:220][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.11-01.34.46:220][192]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.34.46:220][192]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.34.46:225][192]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.34.46:226][192]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 0) at 2024.10.11-14.34.46
+[2024.10.11-01.34.46:226][192]LogWorld: Bringing up level for play took: 0.000990
+[2024.10.11-01.34.46:228][192]PIE: Server logged in
+[2024.10.11-01.34.46:229][192]PIE: Play in editor total start time 0.242 seconds.
+[2024.10.11-01.34.57:484][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.34.57:484][333]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.34.57:486][333]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.34.57:486][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.34.57:598][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.34.57:609][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.34.57:637][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.34.57:638][333]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.11-01.34.57:638][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.11-01.34.57:641][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.11-01.34.57:651][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.34.57:654][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.10.11-01.34.57:684][334]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.10.11-01.38.48:006][ 17]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.38.48:074][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2024.10.11-01.38.57:502][411]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.38.57:566][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.10.11-01.39.02:831][631]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.39.02:887][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.10.11-01.39.10:185][973]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.39.10:201][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.39.10:201][973]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:39:10 am)
+[2024.10.11-01.39.10:201][973]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2024.10.11-01.39.10:205][973]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.10.11-01.39.10:227][974]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.39.10:230][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003426s)
+[2024.10.11-01.39.10:231][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.003505s)
+[2024.10.11-01.39.10:265][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.10.11-01.39.10:267][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.39.10:268][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.39.10:268][974]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.39.10:269][974]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2024.10.11-01.39.10:269][974]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.10.11-01.39.10:269][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.39.10:269][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.39.10:269][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.39.10:269][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.39.10:269][974]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.39.10:269][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.39.10:269][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.39.10:269][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.39.10:270][974]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.39.10:270][974]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.39.10:270][974]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.39.10:273][974]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.39.10:429][974]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.39.10:429][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.39.10:429][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.39.10:429][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.39.10:430][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.10.11-01.39.10:430][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.10.11-01.39.10:434][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.10.11-01.39.10:434][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.10.11-01.39.10:434][974]LogInit: FAudioDevice initialized with ID 9.
+[2024.10.11-01.39.10:434][974]LogAudio: Display: Audio Device (ID: 9) registered with world 'CarSelectionMap'.
+[2024.10.11-01.39.10:434][974]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.11-01.39.10:435][974]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.39.10:435][974]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.39.10:439][974]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.39.10:440][974]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 0) at 2024.10.11-14.39.10
+[2024.10.11-01.39.10:440][974]LogWorld: Bringing up level for play took: 0.000955
+[2024.10.11-01.39.10:442][974]PIE: Server logged in
+[2024.10.11-01.39.10:443][974]PIE: Play in editor total start time 0.242 seconds.
+[2024.10.11-01.39.21:585][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.39.21:585][248]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.39.21:585][248]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.39.21:585][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.39.21:623][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.39.21:633][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.39.21:656][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.39.21:656][248]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.11-01.39.21:656][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.11-01.39.21:660][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.11-01.39.21:675][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.39.21:680][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.10.11-01.39.21:711][249]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.10.11-01.39.47:239][303]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.39.47:312][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.10.11-01.39.52:916][535]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.39.52:977][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.10.11-01.41.21:243][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.10.11-01.41.21:256][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/CarSelectionMap_Auto5
+[2024.10.11-01.41.21:256][885]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelectionMap_Auto5CEFAAFB34815CE0D6EBE63AAF35E340D.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarSelectionMap_Auto5.umap'
+[2024.10.11-01.41.21:260][885]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarSelectionMap_Auto5.umap is in the /Temp path, will not scan.
+[2024.10.11-01.41.21:260][885]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/UI_Design/CarSelectionMap_Auto5 is in the /Temp path, will not scan.
+[2024.10.11-01.41.21:260][885]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/UI_Design/CarSelectionMap_Auto5 is in the /Temp path, will not scan.
+[2024.10.11-01.41.21:260][885]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/CarSelectionMap' took 0.043
+[2024.10.11-01.41.21:260][885]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2024.10.11-01.41.21:261][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/CarSelection_UI] ([2] browsable assets)...
+[2024.10.11-01.41.21:265][885]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/CarSelection_UI.CarSelection_UI]
+[2024.10.11-01.41.21:265][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/CarSelection_UI]
+[2024.10.11-01.41.21:273][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/CarSelection_UI_Auto5
+[2024.10.11-01.41.21:273][885]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto5928965F74AA2DCA87F7C6FA2D9370077.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarSelection_UI_Auto5.uasset'
+[2024.10.11-01.41.21:275][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/BP_RaceCar] ([2] browsable assets)...
+[2024.10.11-01.41.21:331][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UI_Design/BP_RaceCar.BP_RaceCar]
+[2024.10.11-01.41.21:331][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/BP_RaceCar]
+[2024.10.11-01.41.21:331][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/BP_RaceCar" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/BP_RaceCar_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.10.11-01.41.21:342][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/BP_RaceCar_Auto5
+[2024.10.11-01.41.21:342][885]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_RaceCar_Auto5956D69E34EC893833C0FCFA59F1452FF.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/BP_RaceCar_Auto5.uasset'
+[2024.10.11-01.41.21:343][885]LogFileHelpers: Auto-saving content packages took 0.083
+[2024.10.11-01.41.42:089][921]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.41.42:101][921]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.11-01.41.42:103][921]LogPlayLevel: [PlayLevel] Compiling CarSelection_UI before play...
+[2024.10.11-01.41.42:250][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.10.11-01.41.42:251][921]LogPlayLevel: PlayLevel: Blueprint regeneration took 151 ms (1 blueprints)
+[2024.10.11-01.41.42:252][921]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:41:42 am)
+[2024.10.11-01.41.42:252][921]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2024.10.11-01.41.42:254][921]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.10.11-01.41.42:279][922]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.41.42:281][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002337s)
+[2024.10.11-01.41.42:281][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.002408s)
+[2024.10.11-01.41.42:308][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.11-01.41.42:310][922]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.41.42:310][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.41.42:311][922]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.41.42:312][922]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2024.10.11-01.41.42:312][922]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.10.11-01.41.42:312][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.41.42:312][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.41.42:312][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.41.42:312][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.41.42:312][922]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.41.42:312][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.41.42:312][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.41.42:312][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.41.42:313][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.41.42:313][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.41.42:313][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.41.42:315][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.41.42:439][922]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.41.42:440][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.41.42:440][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.41.42:440][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.41.42:443][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.10.11-01.41.42:443][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.10.11-01.41.42:445][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.10.11-01.41.42:445][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.10.11-01.41.42:445][922]LogInit: FAudioDevice initialized with ID 10.
+[2024.10.11-01.41.42:445][922]LogAudio: Display: Audio Device (ID: 10) registered with world 'CarSelectionMap'.
+[2024.10.11-01.41.42:446][922]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.10.11-01.41.42:446][922]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.41.42:446][922]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.41.42:449][922]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.41.42:450][922]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 0) at 2024.10.11-14.41.42
+[2024.10.11-01.41.42:451][922]LogWorld: Bringing up level for play took: 0.001086
+[2024.10.11-01.41.42:453][922]PIE: Server logged in
+[2024.10.11-01.41.42:455][922]PIE: Play in editor total start time 0.355 seconds.
+[2024.10.11-01.41.56:425][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.41.56:425][ 39]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.41.56:425][ 39]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.41.56:425][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.41.56:528][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.41.56:537][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.41.56:558][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.41.56:559][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.10.11-01.41.56:559][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.10.11-01.41.56:561][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.10.11-01.41.56:576][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.10.11-01.41.56:638][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.10.11-01.42.06:102][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.11-01.42.06:105][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.11-01.42.06:108][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.11-01.42.06:369][388]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.11-01.42.06:396][388]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.11-01.42.06:419][389]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.11-01.42.06:620][390]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.11-01.42.06:647][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.10.11-01.42.35:250][505]LogAutomationController: Ignoring very large delta of 3.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.43.46:356][909]LogAutomationController: Ignoring very large delta of 2.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.43.55:452][  1]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.43.55:525][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.10.11-01.44.19:289][464]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.44.20:620][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.10.11-01.44.30:128][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.44.30:140][550]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.11-01.44.30:149][550]LogPlayLevel: [PlayLevel] Compiling CarSelection_UI before play...
+[2024.10.11-01.44.30:305][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.10.11-01.44.30:307][550]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2024.10.11-01.44.30:307][550]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:44:30 am)
+[2024.10.11-01.44.30:307][550]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2024.10.11-01.44.30:310][550]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.10.11-01.44.30:340][551]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.44.30:343][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002840s)
+[2024.10.11-01.44.30:343][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.002921s)
+[2024.10.11-01.44.30:368][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.10.11-01.44.30:372][551]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.44.30:372][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.44.30:373][551]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.44.30:373][551]LogPlayLevel: PIE: World Init took: (0.001447s)
+[2024.10.11-01.44.30:373][551]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.10.11-01.44.30:374][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.44.30:374][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.44.30:374][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.44.30:374][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.44.30:374][551]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.44.30:374][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.44.30:374][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.44.30:374][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.44.30:374][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.44.30:374][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.44.30:374][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.44.30:376][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.44.30:493][551]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.44.30:493][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.44.30:493][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.44.30:493][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.44.30:497][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.10.11-01.44.30:497][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.10.11-01.44.30:499][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.10.11-01.44.30:499][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.10.11-01.44.30:499][551]LogInit: FAudioDevice initialized with ID 11.
+[2024.10.11-01.44.30:499][551]LogAudio: Display: Audio Device (ID: 11) registered with world 'CarSelectionMap'.
+[2024.10.11-01.44.30:499][551]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.10.11-01.44.30:499][551]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.44.30:499][551]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.44.30:503][551]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.44.30:503][551]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 0) at 2024.10.11-14.44.30
+[2024.10.11-01.44.30:503][551]LogWorld: Bringing up level for play took: 0.001158
+[2024.10.11-01.44.30:507][551]PIE: Server logged in
+[2024.10.11-01.44.30:508][551]PIE: Play in editor total start time 0.367 seconds.
+[2024.10.11-01.44.45:841][656]LogAutomationController: Ignoring very large delta of 2.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.44.47:757][657]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.10.11-01.44.47:805][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.44.47:805][657]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.44.47:805][657]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.44.47:805][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.44.47:814][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.44.47:828][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.44.47:867][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.44.47:867][657]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.10.11-01.44.47:867][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.11-01.44.47:870][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.11-01.44.47:889][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.10.11-01.44.47:938][657]LogAutomationController: Ignoring very large delta of 2.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.44.47:959][658]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.10.11-01.44.54:870][662]LogAutomationController: Ignoring very large delta of 5.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.44.58:099][663]LogAutomationController: Ignoring very large delta of 3.23 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.45.34:423][435]LogAutomationController: Ignoring very large delta of 9.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.45.52:379][127]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.45.52:396][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.45.52:397][127]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:45:52 am)
+[2024.10.11-01.45.52:397][127]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2024.10.11-01.45.52:401][127]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.10.11-01.45.52:416][128]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.45.52:420][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003578s)
+[2024.10.11-01.45.52:420][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.003675s)
+[2024.10.11-01.45.52:459][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.10.11-01.45.52:468][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.45.52:468][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.45.52:468][128]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.45.52:469][128]LogPlayLevel: PIE: World Init took: (0.002085s)
+[2024.10.11-01.45.52:469][128]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.10.11-01.45.52:469][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.45.52:469][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.45.52:469][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.45.52:469][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.45.52:469][128]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.45.52:469][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.45.52:469][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.45.52:469][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.45.52:471][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.45.52:472][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.45.52:472][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.45.52:476][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.45.52:654][128]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.45.52:655][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.45.52:655][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.45.52:655][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.45.52:657][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.10.11-01.45.52:657][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.10.11-01.45.52:659][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.10.11-01.45.52:660][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.10.11-01.45.52:660][128]LogInit: FAudioDevice initialized with ID 12.
+[2024.10.11-01.45.52:660][128]LogAudio: Display: Audio Device (ID: 12) registered with world 'CarSelectionMap'.
+[2024.10.11-01.45.52:660][128]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.11-01.45.52:660][128]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.45.52:660][128]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.45.52:731][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.45.52:733][128]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.45.52:734][128]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 60) at 2024.10.11-14.45.52
+[2024.10.11-01.45.52:735][128]LogWorld: Bringing up level for play took: 0.001940
+[2024.10.11-01.45.52:735][128]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.10.11-01.45.52:744][128]PIE: Server logged in
+[2024.10.11-01.45.52:748][128]PIE: Play in editor total start time 0.352 seconds.
+[2024.10.11-01.45.52:771][128]LogViewport: Scene viewport resized to 516x142, mode Windowed.
+[2024.10.11-01.46.02:985][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.46.02:987][194]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.46.03:000][194]LogSlate: Window 'Car Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.10.11-01.46.03:096][194]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.46.03:107][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.46.03:701][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.46.03:823][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.46.06:622][194]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.10.11-01.46.06:626][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.11-01.46.06:706][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.11-01.46.09:456][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.10.11-01.46.09:488][194]LogAutomationController: Ignoring very large delta of 7.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.46.09:523][195]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.10.11-01.46.24:313][892]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.46.24:379][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.10.11-01.46.32:030][ 87]LogAutomationController: Ignoring very large delta of 3.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.46.38:458][ 95]LogAutomationController: Ignoring very large delta of 2.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.47.18:960][943]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.11-01.47.19:947][943]LogUObjectHash: Compacting FUObjectHashTables data took  33.27ms
+[2024.10.11-01.47.24:232][943]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.11-01.47.24:806][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.10.11-01.47.25:066][944]LogAutomationController: Ignoring very large delta of 6.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.11-01.47.31:530][235]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.47.31:555][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.47.31:556][235]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:47:31 am)
+[2024.10.11-01.47.31:556][235]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2024.10.11-01.47.31:559][235]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.10.11-01.47.31:577][236]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.47.31:581][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003511s)
+[2024.10.11-01.47.31:581][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.003589s)
+[2024.10.11-01.47.31:613][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2024.10.11-01.47.31:618][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.47.31:618][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.47.31:619][236]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.47.31:619][236]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2024.10.11-01.47.31:619][236]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.10.11-01.47.31:619][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.47.31:619][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.47.31:619][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.47.31:619][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.47.31:619][236]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.47.31:619][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.47.31:619][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.47.31:619][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.47.31:621][236]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.47.31:621][236]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.47.31:621][236]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.47.31:623][236]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.47.31:757][236]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.47.31:760][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.47.31:760][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.47.31:760][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.47.31:765][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.10.11-01.47.31:765][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.10.11-01.47.31:767][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.10.11-01.47.31:767][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.10.11-01.47.31:767][236]LogInit: FAudioDevice initialized with ID 13.
+[2024.10.11-01.47.31:767][236]LogAudio: Display: Audio Device (ID: 13) registered with world 'CarSelectionMap'.
+[2024.10.11-01.47.31:768][236]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.11-01.47.31:768][236]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.47.31:768][236]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.47.31:771][236]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.47.31:772][236]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 60) at 2024.10.11-14.47.31
+[2024.10.11-01.47.31:772][236]LogWorld: Bringing up level for play took: 0.000816
+[2024.10.11-01.47.31:774][236]PIE: Server logged in
+[2024.10.11-01.47.31:775][236]PIE: Play in editor total start time 0.221 seconds.
+[2024.10.11-01.47.42:544][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.47.42:545][480]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.47.42:545][480]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.47.42:545][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.47.42:553][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.47.42:561][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.47.42:585][480]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.47.42:586][480]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.10.11-01.47.42:586][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.11-01.47.42:588][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.11-01.47.42:613][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.47.42:618][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.10.11-01.47.42:684][481]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.10.11-01.48.27:453][396]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.48.27:520][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.10.11-01.48.34:903][662]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.48.34:914][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.48.34:914][662]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:48:34 am)
+[2024.10.11-01.48.34:914][662]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2024.10.11-01.48.34:918][662]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.10.11-01.48.34:931][663]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.48.34:934][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002367s)
+[2024.10.11-01.48.34:935][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.002425s)
+[2024.10.11-01.48.34:962][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.10.11-01.48.34:965][663]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.48.34:965][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.48.34:965][663]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.48.34:966][663]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2024.10.11-01.48.34:966][663]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.10.11-01.48.34:966][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.48.34:966][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.48.34:966][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.48.34:966][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.48.34:966][663]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.48.34:966][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.48.34:966][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.48.34:966][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.48.34:967][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.48.34:967][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.48.34:967][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.48.34:971][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.48.35:120][663]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.48.35:122][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.48.35:122][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.48.35:122][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.48.35:124][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.10.11-01.48.35:124][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.10.11-01.48.35:128][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.10.11-01.48.35:128][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.10.11-01.48.35:128][663]LogInit: FAudioDevice initialized with ID 14.
+[2024.10.11-01.48.35:128][663]LogAudio: Display: Audio Device (ID: 14) registered with world 'CarSelectionMap'.
+[2024.10.11-01.48.35:128][663]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.11-01.48.35:128][663]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.48.35:128][663]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.48.35:131][663]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.48.35:131][663]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 60) at 2024.10.11-14.48.35
+[2024.10.11-01.48.35:132][663]LogWorld: Bringing up level for play took: 0.000715
+[2024.10.11-01.48.35:133][663]PIE: Server logged in
+[2024.10.11-01.48.35:134][663]PIE: Play in editor total start time 0.221 seconds.
+[2024.10.11-01.48.52:535][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.48.52:535][811]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.48.52:535][811]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.48.52:535][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.48.52:641][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.48.52:647][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.48.52:666][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.11-01.48.52:666][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.10.11-01.48.52:666][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.11-01.48.52:669][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.11-01.48.52:690][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.48.52:694][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.11-01.48.52:738][812]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.10.11-01.49.32:418][785]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.11-01.49.32:473][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.10.11-01.49.34:253][829]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.49.34:266][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.49.34:267][829]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:49:34 am)
+[2024.10.11-01.49.34:267][829]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2024.10.11-01.49.34:270][829]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.10.11-01.49.34:369][830]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.49.34:371][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002523s)
+[2024.10.11-01.49.34:371][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.002586s)
+[2024.10.11-01.49.34:397][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.10.11-01.49.34:401][830]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.49.34:402][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.49.34:402][830]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.49.34:403][830]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2024.10.11-01.49.34:403][830]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.10.11-01.49.34:403][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.49.34:403][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.49.34:403][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.49.34:403][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.49.34:403][830]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.49.34:403][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.49.34:403][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.49.34:403][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.49.34:403][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.49.34:403][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.49.34:403][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.49.34:406][830]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.49.34:571][830]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.49.34:572][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.49.34:572][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.49.34:572][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.49.34:592][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.10.11-01.49.34:593][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.10.11-01.49.34:629][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.10.11-01.49.34:630][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.10.11-01.49.34:630][830]LogInit: FAudioDevice initialized with ID 15.
+[2024.10.11-01.49.34:630][830]LogAudio: Display: Audio Device (ID: 15) registered with world 'CarSelectionMap'.
+[2024.10.11-01.49.34:631][830]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.11-01.49.34:633][830]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.49.34:634][830]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.49.34:677][830]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.49.34:686][830]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 60) at 2024.10.11-14.49.34
+[2024.10.11-01.49.34:693][830]LogWorld: Bringing up level for play took: 0.013334
+[2024.10.11-01.49.34:730][830]PIE: Server logged in
+[2024.10.11-01.49.34:744][830]PIE: Play in editor total start time 0.477 seconds.
+[2024.10.11-01.49.45:555][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.49.45:555][879]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.49.45:555][879]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.49.45:555][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.49.45:809][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.49.45:882][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.49.46:215][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.49.46:216][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.10.11-01.49.46:217][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.11-01.49.46:249][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.11-01.49.46:479][879]LogUObjectHash: Compacting FUObjectHashTables data took  31.91ms
+[2024.10.11-01.49.46:756][880]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.10.11-01.49.55:281][184]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.11-01.49.55:336][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.10.11-01.49.57:749][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.11-01.49.57:761][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.11-01.49.57:761][252]PIE: New page: PIE session: CarSelectionMap (12/10/2024, 3:49:57 am)
+[2024.10.11-01.49.57:763][252]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2024.10.11-01.49.57:767][252]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.10.11-01.49.57:865][253]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.49.57:868][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003395s)
+[2024.10.11-01.49.57:869][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelectionMap.CarSelectionMap to /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap (0.003495s)
+[2024.10.11-01.49.57:900][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.10.11-01.49.57:903][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.11-01.49.57:903][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.11-01.49.57:905][253]LogAIModule: Creating AISystem for world CarSelectionMap
+[2024.10.11-01.49.57:905][253]LogPlayLevel: PIE: World Init took: (0.002408s)
+[2024.10.11-01.49.57:905][253]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.10.11-01.49.57:905][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.11-01.49.57:906][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.11-01.49.57:906][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.11-01.49.57:906][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.11-01.49.57:906][253]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.11-01.49.57:906][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.11-01.49.57:906][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.11-01.49.57:906][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.11-01.49.57:906][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.11-01.49.57:906][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.11-01.49.57:906][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.11-01.49.57:908][253]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.11-01.49.58:048][253]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.11-01.49.58:048][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.11-01.49.58:048][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.11-01.49.58:048][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.11-01.49.58:050][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.10.11-01.49.58:050][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.10.11-01.49.58:053][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.10.11-01.49.58:053][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.10.11-01.49.58:053][253]LogInit: FAudioDevice initialized with ID 16.
+[2024.10.11-01.49.58:053][253]LogAudio: Display: Audio Device (ID: 16) registered with world 'CarSelectionMap'.
+[2024.10.11-01.49.58:053][253]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.11-01.49.58:053][253]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.11-01.49.58:053][253]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.11-01.49.58:057][253]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.11-01.49.58:057][253]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelectionMap.CarSelectionMap up for play (max tick rate 60) at 2024.10.11-14.49.58
+[2024.10.11-01.49.58:057][253]LogWorld: Bringing up level for play took: 0.000898
+[2024.10.11-01.49.58:060][253]PIE: Server logged in
+[2024.10.11-01.49.58:061][253]PIE: Play in editor total start time 0.299 seconds.
+[2024.10.11-01.50.09:347][334]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.10.11-01.50.09:934][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.50.09:934][338]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelectionMap
+[2024.10.11-01.50.09:934][338]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.11-01.50.09:934][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.50.10:215][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.11-01.50.10:221][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.11-01.50.10:241][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.11-01.50.10:241][338]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.10.11-01.50.10:241][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.11-01.50.10:244][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.10.11-01.50.10:269][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.10.11-01.50.10:316][339]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.10.11-01.50.19:035][568]BlueprintLog: New page: Compile BP_RaceCar
+[2024.10.11-01.50.19:902][568]LogUObjectHash: Compacting FUObjectHashTables data took  14.34ms
