@@ -1836,3 +1836,1024 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2024.10.20-22.54.10:642][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 2.67 sec)
 [2024.10.20-22.54.10:649][516]AssetCheck: New page: Asset Save: CarSelection_UI
 [2024.10.20-22.54.10:649][516]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI
+[2024.10.20-22.58.51:858][854]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.20-22.58.51:945][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.10.20-23.03.51:905][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.10.20-23.03.51:907][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/CarSelection' took 0.031
+[2024.10.20-23.03.51:907][577]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/WidgetScreen/CarSelection_UI] ([2] browsable assets)...
+[2024.10.20-23.03.51:922][577]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI]
+[2024.10.20-23.03.51:922][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/WidgetScreen/CarSelection_UI]
+[2024.10.20-23.03.51:965][577]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto2
+[2024.10.20-23.03.51:966][577]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto282E9262542EBE0BACD31688B7600B166.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto2.uasset'
+[2024.10.20-23.03.51:968][577]LogFileHelpers: Auto-saving content packages took 0.062
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.20-23.09.04:839][904]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-04.02.11:712][904]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.21-04.02.14:170][985]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-04.02.14:831][ 15]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-04.02.17:558][147]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-04.02.17:558][147]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-04.21.07:881][316]LogDerivedDataCache: C:/Users/livfa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.073 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2471 files in 3602 folders with total size 687 MiB.
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: 000009E18F938C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: 000009E18F938C00: libcurl info message cache 0 (Too old connection (6009 seconds idle), disconnect it)
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: 000009E18F938C00: libcurl info message cache 1 (Connection 2 seems to be dead)
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: 000009E18F938C00: libcurl info message cache 2 (Closing connection)
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: 000009E18F938C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: 000009E18F938C00: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: 000009E18F938C00: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: 000009E18F938C00: libcurl info message cache 6 (Closing connection)
+[2024.10.21-06.05.38:005][595]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B002B1B56-4CF3-2667-C834-11B39CA207AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e8a2f354747c7371e793eb2d0b10f64%7C5eb3019050894356bfb2b9197df5541c%7C3d81f8ca-bd6c-43b2-9dfb-b57966048499&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.21-06.05.59:012][635]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.10.21-06.06.01:073][641]LogUdpMessaging: Display: Added local interface '10.104.196.32' to multicast group '230.0.0.1:6666'
+[2024.10.21-06.07.13:197][856]LogWindowsTextInputMethodSystem: Activated input method: English (New Zealand) - (Keyboard).
+[2024.10.21-06.07.13:197][856]LogWindowsTextInputMethodSystem: Activated input method: English (New Zealand) - (Keyboard).
+[2024.10.21-06.07.26:110][895]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-06.07.26:418][895]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2024.10.21-06.07.43:165][592]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.07.43:681][620]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.09.11:534][339]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.21-06.09.11:569][339]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.21-06.09.11:593][340]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.21-06.09.25:826][594]LogContentBrowser: Attempting asset rename: NewFolder -> CarCharacter
+[2024.10.21-06.09.25:833][594]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.21-06.13.00:502][817]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.29.09:567][463]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.21-06.29.09:591][463]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.21-06.29.09:616][463]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.21-06.29.09:709][465]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.21-06.29.10:460][475]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.29.24:946][574]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.29.27:278][581]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.29.34:772][604]LogContentBrowser: Attempting asset rename: NewBlueprint -> Car
+[2024.10.21-06.29.34:851][604]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.21-06.29.37:889][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI_Design/CarCharacter/Car.Car
+[2024.10.21-06.29.37:891][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.29.37:892][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-06.29.38:550][685]LogViewport: Scene viewport resized to 1590x1100, mode Windowed.
+[2024.10.21-06.29.39:313][699]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.29.58:976][ 38]LogContentBrowser: Attempting asset rename: Car -> BP_CarPawn
+[2024.10.21-06.29.59:238][ 38]LogMetaData: Removing '/Game/UI_Design/CarCharacter/BP_CarPawn.BP_CarPawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI_Design/CarCharacter/Car.PackageMetaData'
+[2024.10.21-06.29.59:238][ 38]LogMetaData: Removing '/Game/UI_Design/CarCharacter/BP_CarPawn.SKEL_BP_CarPawn_C:UserConstructionScript' ref from Metadata '/Game/UI_Design/CarCharacter/Car.PackageMetaData'
+[2024.10.21-06.29.59:238][ 38]LogMetaData: Removing '/Game/UI_Design/CarCharacter/BP_CarPawn.SKEL_BP_CarPawn_C' ref from Metadata '/Game/UI_Design/CarCharacter/Car.PackageMetaData'
+[2024.10.21-06.29.59:238][ 38]LogMetaData: Removing '/Game/UI_Design/CarCharacter/BP_CarPawn.BP_CarPawn_C' ref from Metadata '/Game/UI_Design/CarCharacter/Car.PackageMetaData'
+[2024.10.21-06.29.59:238][ 38]LogMetaData: Removing '/Game/UI_Design/CarCharacter/BP_CarPawn.BP_CarPawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI_Design/CarCharacter/Car.PackageMetaData'
+[2024.10.21-06.29.59:238][ 38]LogMetaData: Removing '/Game/UI_Design/CarCharacter/BP_CarPawn.BP_CarPawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI_Design/CarCharacter/Car.PackageMetaData'
+[2024.10.21-06.29.59:238][ 38]LogMetaData: Removing '/Game/UI_Design/CarCharacter/BP_CarPawn.BP_CarPawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI_Design/CarCharacter/Car.PackageMetaData'
+[2024.10.21-06.29.59:264][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-06.29.59:389][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/CarCharacter/BP_CarPawn" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_CarPawn.uasset" SILENT=true
+[2024.10.21-06.29.59:411][ 38]LogSavePackage: Moving output files for package: /Game/UI_Design/CarCharacter/BP_CarPawn
+[2024.10.21-06.29.59:411][ 38]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_CarPawn611BEA9643753F1D70162A987E91719C.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_CarPawn.uasset'
+[2024.10.21-06.29.59:449][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 2.85 sec)
+[2024.10.21-06.29.59:500][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.10.21-06.29.59:527][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.10.21-06.29.59:545][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.21-06.29.59:551][ 38]AssetCheck: New page: Asset Save: BP_CarPawn
+[2024.10.21-06.29.59:551][ 38]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/CarCharacter/BP_CarPawn.BP_CarPawn
+[2024.10.21-06.30.48:972][651]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.34.06:642][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.06:643][237]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.15:386][237]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.21-06.34.15:404][237]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.21-06.34.15:423][237]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.21-06.34.15:459][238]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.21-06.34.23:854][319]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SUVPawn
+[2024.10.21-06.34.23:927][319]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:975][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:976][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:976][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:976][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.26:976][386]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.35:207][386]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.21-06.34.35:226][386]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.21-06.34.35:240][386]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.21-06.34.35:269][387]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.21-06.34.36:298][396]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.34.36:299][396]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.34.42:383][470]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HatchBackPawn
+[2024.10.21-06.34.42:430][470]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:017][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:026][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:026][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:026][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:026][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.46:026][540]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.34.53:683][540]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.21-06.34.53:698][540]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.21-06.34.53:716][540]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.21-06.34.53:752][541]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.21-06.35.01:592][625]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RaceCarPawn
+[2024.10.21-06.35.01:647][625]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.05:013][677]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.35.15:209][677]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.21-06.35.15:230][677]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.21-06.35.15:250][677]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.21-06.35.15:291][678]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.21-06.35.15:989][689]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.35.25:597][804]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TruckPawn
+[2024.10.21-06.35.25:616][804]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.21-06.35.37:551][871]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.35.38:407][887]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI_Design/CarCharacter/BP_HatchBackPawn.BP_HatchBackPawn
+[2024.10.21-06.35.38:407][887]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.35.38:408][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-06.35.38:672][887]LogViewport: Scene viewport resized to 1590x1100, mode Windowed.
+[2024.10.21-06.36.17:448][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: ================================================
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Total job queries 195, among them cache hits 123 (63.08%)
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 46 distinct outputs (69.70%)
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: RAM used: 1.48 MiB of 819.20 MiB budget. Usage: 0.18%
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Shaders Compiled: 66
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100%)
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Average time worker was idle: 195.68 s
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Time job spent in pending queue: average 3.33 s, longest 10.59 s
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Job execution time: average 1.49 s, max 7.66 s
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Job life time (pending + execution): average 4.82 s, max 11.10
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Shader code size: average 38.631 KiB, min 4.465 KiB, max 88.141 KiB
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.51 s
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Average processing rate: 1.97 jobs/sec
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Total thread time: 72.88 s
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Total thread preprocess time: 14.33 s
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Percentage time preprocessing: 19.66%
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Effective parallelization: 2.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2024.10.21-06.36.26:060][118]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 2.09 sec, max 2.83 sec, min 0.61 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 1.93 sec, max 1.93 sec, min 1.93 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.69 sec, max 3.55 sec, min 0.60 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   10 times, average 1.44 sec, max 3.18 sec, min 0.66 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.87% of total time (compiled    9 times, average 1.69 sec, max 3.55 sec, min 0.60 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.75% of total time (compiled   10 times, average 1.44 sec, max 3.18 sec, min 0.66 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.47% of total time (compiled    4 times, average 2.09 sec, max 2.83 sec, min 0.61 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.68% of total time (compiled    3 times, average 1.14 sec, max 1.45 sec, min 0.85 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 4.65% of total time (compiled    3 times, average 1.13 sec, max 1.87 sec, min 0.59 sec)
+[2024.10.21-06.36.26:061][118]LogShaderCompilers: Display: ================================================
+[2024.10.21-06.38.19:523][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.38.25:276][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.38.26:780][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.38.47:103][761]LogSkeletalMesh: Display: [AssetLog] C:\Racing_Game\CS-205-Racing-Game\Car\Content\VehicleVarietyPack\Skeletons\SK_Hatchback.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.10.21-06.38.47:109][761]LogSkeletalMesh: Building Skeletal Mesh SK_Hatchback...
+[2024.10.21-06.38.47:529][764]LogSkeletalMesh: Built Skeletal Mesh [0.43s] /Game/VehicleVarietyPack/Skeletons/SK_Hatchback.SK_Hatchback
+[2024.10.21-06.38.47:671][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.38.51:378][880]BlueprintLog: New page: Compile BP_HatchBackPawn
+[2024.10.21-06.38.51:682][880]LogUObjectHash: Compacting FUObjectHashTables data took  10.07ms
+[2024.10.21-06.39.17:335][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.10.21-06.39.17:338][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/CarSelection' took 0.028
+[2024.10.21-06.39.17:339][118]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/WidgetScreen/CarSelection_UI] ([2] browsable assets)...
+[2024.10.21-06.39.17:529][118]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI]
+[2024.10.21-06.39.17:531][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/WidgetScreen/CarSelection_UI]
+[2024.10.21-06.39.17:599][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto3
+[2024.10.21-06.39.17:601][118]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto3D9DCAD98458FB0C2B5FF8BB89D625A64.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto3.uasset'
+[2024.10.21-06.39.17:609][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI_Design/CarCharacter/BP_SUVPawn] ([2] browsable assets)...
+[2024.10.21-06.39.17:609][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/CarCharacter/BP_SUVPawn]
+[2024.10.21-06.39.17:619][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/CarCharacter/BP_SUVPawn_Auto3
+[2024.10.21-06.39.17:619][118]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_SUVPawn_Auto3D68FA12E463F62DAC368DDA920BF4FCE.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarCharacter/BP_SUVPawn_Auto3.uasset'
+[2024.10.21-06.39.17:624][118]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/CarCharacter/BP_HatchBackPawn] ([2] browsable assets)...
+[2024.10.21-06.39.17:788][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/UI_Design/CarCharacter/BP_HatchBackPawn.BP_HatchBackPawn]
+[2024.10.21-06.39.17:789][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/CarCharacter/BP_HatchBackPawn]
+[2024.10.21-06.39.17:798][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/CarCharacter/BP_HatchBackPawn_Auto3
+[2024.10.21-06.39.17:798][118]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_HatchBackPawn_Auto31FFBCB13474FBCCE6DA9ABB069421621.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarCharacter/BP_HatchBackPawn_Auto3.uasset'
+[2024.10.21-06.39.17:801][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI_Design/CarCharacter/BP_RaceCarPawn] ([2] browsable assets)...
+[2024.10.21-06.39.17:801][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/CarCharacter/BP_RaceCarPawn]
+[2024.10.21-06.39.17:805][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/CarCharacter/BP_RaceCarPawn_Auto3
+[2024.10.21-06.39.17:805][118]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_RaceCarPawn_Auto3290608E5492F58B6D4BEFFBA264FDD93.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarCharacter/BP_RaceCarPawn_Auto3.uasset'
+[2024.10.21-06.39.17:809][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI_Design/CarCharacter/BP_TruckPawn] ([2] browsable assets)...
+[2024.10.21-06.39.17:809][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/CarCharacter/BP_TruckPawn]
+[2024.10.21-06.39.17:817][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/CarCharacter/BP_TruckPawn_Auto3
+[2024.10.21-06.39.17:817][118]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_TruckPawn_Auto338D64E5242407350B2B7C0A1E200E0C3.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/CarCharacter/BP_TruckPawn_Auto3.uasset'
+[2024.10.21-06.39.17:820][118]LogFileHelpers: Auto-saving content packages took 0.482
+[2024.10.21-06.42.59:129][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-06.42.59:282][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/CarCharacter/BP_HatchBackPawn" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_HatchBackPawn.uasset" SILENT=true
+[2024.10.21-06.42.59:287][907]LogSavePackage: Moving output files for package: /Game/UI_Design/CarCharacter/BP_HatchBackPawn
+[2024.10.21-06.42.59:287][907]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_HatchBackPawn3610A0F54011398973DB0F88B82471AA.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_HatchBackPawn.uasset'
+[2024.10.21-06.42.59:320][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 3.04 sec)
+[2024.10.21-06.42.59:321][907]AssetCheck: New page: Asset Save: BP_HatchBackPawn
+[2024.10.21-06.42.59:321][907]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/CarCharacter/BP_HatchBackPawn.BP_HatchBackPawn
+[2024.10.21-06.43.08:303][177]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-06.43.08:373][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.10.21-06.43.13:271][259]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI_Design/CarCharacter/BP_RaceCarPawn.BP_RaceCarPawn
+[2024.10.21-06.43.13:272][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.43.13:274][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-06.43.13:742][259]LogViewport: Scene viewport resized to 1590x1100, mode Windowed.
+[2024.10.21-06.43.21:223][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.43.23:291][547]BlueprintLog: New page: Compile BP_RaceCarPawn
+[2024.10.21-06.43.23:368][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.10.21-06.43.24:511][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-06.43.24:691][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/CarCharacter/BP_RaceCarPawn" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_RaceCarPawn.uasset" SILENT=true
+[2024.10.21-06.43.24:701][591]LogSavePackage: Moving output files for package: /Game/UI_Design/CarCharacter/BP_RaceCarPawn
+[2024.10.21-06.43.24:701][591]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_RaceCarPawn690111C245EA52F0C5537BB3FEF09AD0.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_RaceCarPawn.uasset'
+[2024.10.21-06.43.24:723][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 3.26 sec)
+[2024.10.21-06.43.24:724][591]AssetCheck: New page: Asset Save: BP_RaceCarPawn
+[2024.10.21-06.43.24:724][591]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/CarCharacter/BP_RaceCarPawn.BP_RaceCarPawn
+[2024.10.21-06.43.27:138][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI_Design/CarCharacter/BP_SUVPawn.BP_SUVPawn
+[2024.10.21-06.43.27:140][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.43.27:141][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-06.43.29:149][631]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.10.21-06.43.29:257][631]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.118795s (0.118795s overbudget)
+[2024.10.21-06.43.30:481][631]LogViewport: Scene viewport resized to 1590x1100, mode Windowed.
+[2024.10.21-06.43.36:479][795]LogSkeletalMesh: Display: [AssetLog] C:\Racing_Game\CS-205-Racing-Game\Car\Content\VehicleVarietyPack\Skeletons\SK_SUV.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.10.21-06.43.36:481][795]LogSkeletalMesh: Building Skeletal Mesh SK_SUV...
+[2024.10.21-06.43.36:701][799]LogSkeletalMesh: Built Skeletal Mesh [0.22s] /Game/VehicleVarietyPack/Skeletons/SK_SUV.SK_SUV
+[2024.10.21-06.43.36:738][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.43.37:348][802]LogShaderCompilers: Display: ================================================
+[2024.10.21-06.43.37:348][802]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.21-06.43.37:349][802]LogShaderCompilers: Display: Total job queries 215, among them cache hits 137 (63.72%)
+[2024.10.21-06.43.37:349][802]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 46 distinct outputs (63.89%)
+[2024.10.21-06.43.37:349][802]LogShaderCompilers: Display: RAM used: 1.70 MiB of 819.20 MiB budget. Usage: 0.21%
+[2024.10.21-06.43.37:349][802]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.21-06.43.37:349][802]LogShaderCompilers: Display: Shaders Compiled: 72
+[2024.10.21-06.43.37:349][802]LogShaderCompilers: Display: Jobs assigned 72, completed 72 (100%)
+[2024.10.21-06.43.37:349][802]LogShaderCompilers: Display: Average time worker was idle: 689.60 s
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Time job spent in pending queue: average 3.08 s, longest 10.59 s
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Job execution time: average 1.84 s, max 10.68 s
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Job life time (pending + execution): average 4.91 s, max 12.42
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Shader code size: average 41.006 KiB, min 4.465 KiB, max 88.141 KiB
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.00 s
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Average processing rate: 1.44 jobs/sec
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Total thread time: 100.9 s
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Total thread preprocess time: 15.434 s
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Percentage time preprocessing: 15.30%
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Effective parallelization: 2.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 3.35 sec, max 8.38 sec, min 0.61 sec)
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 2.63 sec, max 10.53 sec, min 0.60 sec)
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2024.10.21-06.43.37:350][802]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 1.93 sec, max 1.93 sec, min 1.93 sec)
+[2024.10.21-06.43.37:351][802]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 1.62 sec, max 3.38 sec, min 0.66 sec)
+[2024.10.21-06.43.37:351][802]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.21-06.43.37:351][802]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.64% of total time (compiled   11 times, average 2.63 sec, max 10.53 sec, min 0.60 sec)
+[2024.10.21-06.43.37:352][802]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.62% of total time (compiled   11 times, average 1.62 sec, max 3.38 sec, min 0.66 sec)
+[2024.10.21-06.43.37:352][802]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.59% of total time (compiled    5 times, average 3.35 sec, max 8.38 sec, min 0.61 sec)
+[2024.10.21-06.43.37:352][802]LogShaderCompilers: Display:                                            FDistortionMeshVS - 4.86% of total time (compiled    4 times, average 1.23 sec, max 1.87 sec, min 0.93 sec)
+[2024.10.21-06.43.37:352][802]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.38% of total time (compiled    3 times, average 1.14 sec, max 1.45 sec, min 0.85 sec)
+[2024.10.21-06.43.37:353][802]LogShaderCompilers: Display: ================================================
+[2024.10.21-06.43.39:046][813]BlueprintLog: New page: Compile BP_SUVPawn
+[2024.10.21-06.43.39:321][813]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2024.10.21-06.43.39:785][814]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.43.40:810][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.43.41:424][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-06.43.41:874][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/CarCharacter/BP_SUVPawn" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_SUVPawn.uasset" SILENT=true
+[2024.10.21-06.43.41:985][818]LogSavePackage: Moving output files for package: /Game/UI_Design/CarCharacter/BP_SUVPawn
+[2024.10.21-06.43.41:985][818]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_SUVPawn6337CCA7453D490D1DF64D8F3BF4A9C5.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_SUVPawn.uasset'
+[2024.10.21-06.43.42:011][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 587 ms (total: 3.84 sec)
+[2024.10.21-06.43.42:012][818]AssetCheck: New page: Asset Save: BP_SUVPawn
+[2024.10.21-06.43.42:012][818]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/CarCharacter/BP_SUVPawn.BP_SUVPawn
+[2024.10.21-06.43.44:627][862]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI_Design/CarCharacter/BP_TruckPawn.BP_TruckPawn
+[2024.10.21-06.43.44:628][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.43.44:628][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-06.43.44:964][862]LogViewport: Scene viewport resized to 1590x1100, mode Windowed.
+[2024.10.21-06.43.48:429][965]LogSkeletalMesh: Building Skeletal Mesh SK_Pickup...
+[2024.10.21-06.43.48:537][965]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/VehicleVarietyPack/Skeletons/SK_Pickup.SK_Pickup
+[2024.10.21-06.43.48:600][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.43.51:627][974]BlueprintLog: New page: Compile BP_TruckPawn
+[2024.10.21-06.43.51:892][974]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2024.10.21-06.43.53:966][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-06.43.54:108][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.43.54:193][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/CarCharacter/BP_TruckPawn" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_TruckPawn.uasset" SILENT=true
+[2024.10.21-06.43.54:242][991]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2024.10.21-06.43.54:361][991]LogSavePackage: Moving output files for package: /Game/UI_Design/CarCharacter/BP_TruckPawn
+[2024.10.21-06.43.54:361][991]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_TruckPawn14AC02B049E9B2DB3690C9B40A3AEC2F.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarCharacter/BP_TruckPawn.uasset'
+[2024.10.21-06.43.54:384][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 416 ms (total: 4.26 sec)
+[2024.10.21-06.43.54:385][991]AssetCheck: New page: Asset Save: BP_TruckPawn
+[2024.10.21-06.43.54:385][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/CarCharacter/BP_TruckPawn.BP_TruckPawn
+[2024.10.21-06.44.04:719][ 80]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-06.44.04:729][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-06.44.06:946][ 88]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-06.44.06:946][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-06.44.09:516][124]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-06.44.09:516][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-06.44.11:835][151]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-06.44.11:836][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-06.44.14:317][165]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-06.44.14:317][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-06.44.16:414][177]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.21-06.44.16:414][177]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-06.44.16:414][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-06.44.18:220][201]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.21-06.44.18:220][201]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-06.44.18:220][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-06.44.19:577][221]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.21-06.44.19:577][221]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-06.44.19:577][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-06.44.35:742][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-06.44.51:185][202]LogSlate: Took 0.017224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.10.21-06.45.09:998][732]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.10.21-06.45.24:357][157]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.10.21-06.45.24:383][157]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.10.21-06.45.27:345][279]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-06.45.27:441][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2024.10.21-06.47.07:521][537]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.10.21-06.47.07:522][537]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.10.21-06.48.44:557][669]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.10.21-06.49.18:283][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2024.10.21-06.49.18:294][101]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/CarSelection' took 0.045
+[2024.10.21-06.49.18:295][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/WidgetScreen/CarSelection_UI] ([2] browsable assets)...
+[2024.10.21-06.49.18:436][101]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI]
+[2024.10.21-06.49.18:436][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/WidgetScreen/CarSelection_UI]
+[2024.10.21-06.49.18:514][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto4
+[2024.10.21-06.49.18:516][101]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto4E5C7281646982D2276C4CA89C688578B.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto4.uasset'
+[2024.10.21-06.49.18:520][101]LogFileHelpers: Auto-saving content packages took 0.225
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.51.39:751][160]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-06.56.23:004][467]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-06.56.23:053][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.10.21-06.56.44:359][402]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-06.56.44:428][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.10.21-06.57.10:840][809]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-06.57.10:915][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2024.10.21-06.59.40:884][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.10.21-06.59.40:894][683]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/CarSelection' took 0.035
+[2024.10.21-06.59.40:895][683]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/WidgetScreen/CarSelection_UI] ([2] browsable assets)...
+[2024.10.21-06.59.40:901][683]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI]
+[2024.10.21-06.59.40:901][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/WidgetScreen/CarSelection_UI]
+[2024.10.21-06.59.40:946][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto5
+[2024.10.21-06.59.40:949][683]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto59F1007094CE9A614D6EF33809EADC03D.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto5.uasset'
+[2024.10.21-06.59.40:952][683]LogFileHelpers: Auto-saving content packages took 0.058
+[2024.10.21-07.00.03:903][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-07.00.05:570][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-07.00.07:543][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-07.00.13:550][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.13:551][ 28]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.00.21:404][ 28]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.21-07.00.21:414][ 28]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.21-07.00.21:425][ 28]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.21-07.00.21:452][ 29]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.21-07.00.34:708][144]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CarInstance
+[2024.10.21-07.00.34:731][144]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.21-07.00.37:297][170]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI_Design/BP_CarInstance.BP_CarInstance
+[2024.10.21-07.00.37:298][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-07.00.37:299][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-07.01.31:931][444]BlueprintLog: New page: Compile BP_CarInstance
+[2024.10.21-07.01.31:960][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.21-07.01.33:350][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-07.01.33:437][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/BP_CarInstance" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/BP_CarInstance.uasset" SILENT=true
+[2024.10.21-07.01.33:449][517]LogSavePackage: Moving output files for package: /Game/UI_Design/BP_CarInstance
+[2024.10.21-07.01.33:449][517]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_CarInstance1E4AC3A445251D294C448C90310CBFB1.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/BP_CarInstance.uasset'
+[2024.10.21-07.01.33:468][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 4.38 sec)
+[2024.10.21-07.01.33:469][517]AssetCheck: New page: Asset Save: BP_CarInstance
+[2024.10.21-07.01.33:469][517]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/BP_CarInstance.BP_CarInstance
+[2024.10.21-07.01.37:776][684]LogSlate: External Image Picker: DecompressImage failed
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:165][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:166][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.01.45:166][ 43]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.04.08:283][989]LogDerivedDataCache: C:/Users/livfa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.124 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2478 files in 3616 folders with total size 695 MiB.
+[2024.10.21-07.09.43:960][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.10.21-07.09.43:962][178]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/CarSelection' took 0.025
+[2024.10.21-07.09.43:963][178]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/WidgetScreen/CarSelection_UI] ([2] browsable assets)...
+[2024.10.21-07.09.44:112][178]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI]
+[2024.10.21-07.09.44:112][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/WidgetScreen/CarSelection_UI]
+[2024.10.21-07.09.44:153][178]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto6
+[2024.10.21-07.09.44:154][178]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto6F9CF963A46A3FC6D9A12B9A5DDBEBE79.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto6.uasset'
+[2024.10.21-07.09.44:157][178]LogFileHelpers: Auto-saving content packages took 0.194
+[2024.10.21-07.12.46:088][ 15]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-07.12.46:159][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.10.21-07.13.04:042][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-07.13.04:121][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/BP_CarInstance" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/BP_CarInstance.uasset" SILENT=true
+[2024.10.21-07.13.04:124][ 10]LogSavePackage: Moving output files for package: /Game/UI_Design/BP_CarInstance
+[2024.10.21-07.13.04:125][ 10]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/BP_CarInstance538DBA6E46FF3B56F16C99A7D9E9FEF3.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/BP_CarInstance.uasset'
+[2024.10.21-07.13.04:138][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.47 sec)
+[2024.10.21-07.13.04:139][ 10]AssetCheck: New page: Asset Save: BP_CarInstance
+[2024.10.21-07.13.04:139][ 10]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/BP_CarInstance.BP_CarInstance
+[2024.10.21-07.14.19:602][738]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.21-07.19.44:440][619]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2024.10.21-07.19.44:445][619]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/CarSelection' took 0.037
+[2024.10.21-07.19.44:446][619]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/WidgetScreen/CarSelection_UI] ([2] browsable assets)...
+[2024.10.21-07.19.44:628][619]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI]
+[2024.10.21-07.19.44:629][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/WidgetScreen/CarSelection_UI]
+[2024.10.21-07.19.44:661][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto7
+[2024.10.21-07.19.44:662][619]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto780C0B17F4FE6E4B8BF1C0A96EE3E833B.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto7.uasset'
+[2024.10.21-07.19.44:664][619]LogFileHelpers: Auto-saving content packages took 0.218
+[2024.10.21-07.21.45:743][111]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-07.21.45:803][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.10.21-07.23.25:993][765]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-07.23.26:051][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2024.10.21-07.23.37:186][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.10.21-07.23.39:635][984]LogSlate: Window 'Save Content' being destroyed
+[2024.10.21-07.23.39:659][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-07.23.39:818][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/WidgetScreen/CarSelection_UI" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/WidgetScreen/CarSelection_UI.uasset" SILENT=true
+[2024.10.21-07.23.39:854][984]LogSavePackage: Moving output files for package: /Game/UI_Design/WidgetScreen/CarSelection_UI
+[2024.10.21-07.23.39:855][984]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI5ED0AE0C49A2645B63DE5C87B93E8AF7.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/WidgetScreen/CarSelection_UI.uasset'
+[2024.10.21-07.23.39:874][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 4.69 sec)
+[2024.10.21-07.23.40:004][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-07.23.40:011][984]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI_Design/test.test
+[2024.10.21-07.23.40:011][984]Cmd: MAP LOAD FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.21-07.23.40:012][984]LightingResults: New page: Lighting Build
+[2024.10.21-07.23.40:043][984]LoadErrors: New page: Loading map: test.umap
+[2024.10.21-07.23.40:102][984]LogWorld: UWorld::CleanupWorld for CarSelection, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-07.23.40:104][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-07.23.40:106][984]MapCheck: New page: Map Check
+[2024.10.21-07.23.40:106][984]LightingResults: New page: Lighting Build
+[2024.10.21-07.23.40:133][984]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-07.23.40:152][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.10.21-07.23.40:157][984]LogWorld: UWorld::CleanupWorld for CarSelectionMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-07.23.40:158][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-07.23.40:173][984]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-07.23.40:173][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-07.23.40:197][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.10.21-07.23.40:223][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.10.21-07.23.40:231][984]LogAudio: Display: Audio Device (ID: 1) registered with world 'test'.
+[2024.10.21-07.23.40:232][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-07.23.40:233][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-07.23.40:234][984]LogAIModule: Creating AISystem for world test
+[2024.10.21-07.23.40:394][984]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.21-07.23.40:428][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.10.21-07.23.40:443][984]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.21-07.23.40:444][984]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.32ms to complete.
+[2024.10.21-07.23.40:476][984]AssetCheck: New page: Asset Save: CarSelection_UI
+[2024.10.21-07.23.40:476][984]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI
+[2024.10.21-07.23.46:590][ 80]Cmd: DELETE
+[2024.10.21-07.23.46:592][ 80]Cmd: ACTOR DELETE
+[2024.10.21-07.23.46:605][ 80]LogEditorActor: Deleted Actor: BP_RaceCar_C
+[2024.10.21-07.23.46:633][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.10.21-07.23.46:637][ 80]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.10.21-07.25.39:991][334]BlueprintLog: New page: Compile CarSelection_UI
+[2024.10.21-07.25.40:050][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.10.21-07.25.48:005][520]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/UI_Design/test.test:PersistentLevel.test
+[2024.10.21-07.25.48:005][520]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-07.25.48:005][520]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.30.09:333][828]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-07.32.11:568][402]BlueprintLog: New page: Compile test
+[2024.10.21-07.32.11:613][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.10.21-07.33.37:502][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.10.21-07.33.37:506][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/test" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/test_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.10.21-07.33.37:524][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/test_Auto8
+[2024.10.21-07.33.37:524][298]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/test_Auto85489D62B4574437B50B532BBD9D1CFD8.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/test_Auto8.umap'
+[2024.10.21-07.33.37:526][298]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/test_Auto8.umap is in the /Temp path, will not scan.
+[2024.10.21-07.33.37:526][298]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/UI_Design/test_Auto8 is in the /Temp path, will not scan.
+[2024.10.21-07.33.37:526][298]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/UI_Design/test_Auto8 is in the /Temp path, will not scan.
+[2024.10.21-07.33.37:527][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI_Design/test' took 0.046
+[2024.10.21-07.33.37:527][298]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2024.10.21-07.33.37:527][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Design/WidgetScreen/CarSelection_UI] ([2] browsable assets)...
+[2024.10.21-07.33.37:718][298]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI]
+[2024.10.21-07.33.37:719][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Design/WidgetScreen/CarSelection_UI]
+[2024.10.21-07.33.37:745][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto8
+[2024.10.21-07.33.37:746][298]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI_Auto836FD47234C9E9108CC8E0BA6AC10DA86.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/Autosaves/Game/UI_Design/WidgetScreen/CarSelection_UI_Auto8.uasset'
+[2024.10.21-07.33.37:747][298]LogFileHelpers: Auto-saving content packages took 0.221
+[2024.10.21-12.02.02:429][307]BlueprintLog: New page: Compile test
+[2024.10.21-12.02.02:486][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.10.21-12.02.03:259][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-12.02.03:369][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/test" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.21-12.02.03:432][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.10.21-12.02.03:460][356]LogSavePackage: Moving output files for package: /Game/UI_Design/test
+[2024.10.21-12.02.03:461][356]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/test5089165245C4CE6F958464AE7A5D0D06.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap'
+[2024.10.21-12.02.03:478][356]LogFileHelpers: Saving map 'test' took 0.109
+[2024.10.21-12.02.03:497][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 4.93 sec)
+[2024.10.21-12.02.03:499][356]AssetCheck: New page: Asset Save: test
+[2024.10.21-12.02.03:500][356]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI_Design/test.test
+[2024.10.21-12.02.12:194][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-12.02.12:338][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/WidgetScreen/CarSelection_UI" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/WidgetScreen/CarSelection_UI.uasset" SILENT=true
+[2024.10.21-12.02.12:377][699]LogSavePackage: Moving output files for package: /Game/UI_Design/WidgetScreen/CarSelection_UI
+[2024.10.21-12.02.12:378][699]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelection_UI08CCEFBB45BB7157A11757B71013BC04.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/WidgetScreen/CarSelection_UI.uasset'
+[2024.10.21-12.02.12:401][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 5.13 sec)
+[2024.10.21-12.02.12:404][699]AssetCheck: New page: Asset Save: CarSelection_UI
+[2024.10.21-12.02.12:404][699]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI_Design/WidgetScreen/CarSelection_UI.CarSelection_UI
+[2024.10.21-12.02.24:087][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.21-12.02.24:235][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.02.24:245][138]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI_Design/CarSelection.CarSelection
+[2024.10.21-12.02.24:245][138]Cmd: MAP LOAD FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.21-12.02.24:246][138]LightingResults: New page: Lighting Build
+[2024.10.21-12.02.24:246][138]LoadErrors: New page: Loading map: CarSelection.umap
+[2024.10.21-12.02.24:343][138]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.02.24:343][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.02.24:391][138]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.02.24:391][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.02.24:391][138]MapCheck: New page: Map Check
+[2024.10.21-12.02.24:391][138]LightingResults: New page: Lighting Build
+[2024.10.21-12.02.24:414][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-12.02.24:419][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.10.21-12.02.24:507][138]LogWorld: UWorld::CleanupWorld for CarSelection, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.02.24:507][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.02.24:533][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.10.21-12.02.24:558][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.10.21-12.02.24:573][138]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarSelection'.
+[2024.10.21-12.02.24:574][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.02.24:574][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.02.24:574][138]LogAIModule: Creating AISystem for world CarSelection
+[2024.10.21-12.02.24:716][138]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.21-12.02.24:751][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.10.21-12.02.24:761][138]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.21-12.02.24:761][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2024.10.21-12.02.29:924][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-12.02.29:957][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-12.02.29:958][161]PIE: New page: PIE session: CarSelection (22/10/2024, 2:02:29 pm)
+[2024.10.21-12.02.29:962][161]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2024.10.21-12.02.29:970][161]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.10.21-12.02.30:016][162]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelection
+[2024.10.21-12.02.30:025][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007903s)
+[2024.10.21-12.02.30:025][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelection.CarSelection to /Game/UI_Design/UEDPIE_0_CarSelection.CarSelection (0.008149s)
+[2024.10.21-12.02.30:049][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.10.21-12.02.30:055][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.02.30:055][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.02.30:056][162]LogAIModule: Creating AISystem for world CarSelection
+[2024.10.21-12.02.30:057][162]LogPlayLevel: PIE: World Init took: (0.004074s)
+[2024.10.21-12.02.30:058][162]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.21-12.02.30:060][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-12.02.30:060][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-12.02.30:060][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-12.02.30:060][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-12.02.30:060][162]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.21-12.02.30:061][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-12.02.30:061][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.21-12.02.30:061][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-12.02.30:063][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-12.02.30:063][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-12.02.30:063][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-12.02.30:068][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-12.02.30:286][162]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.21-12.02.30:291][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-12.02.30:291][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-12.02.30:292][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-12.02.30:296][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.21-12.02.30:296][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.21-12.02.30:298][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.21-12.02.30:298][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.21-12.02.30:298][162]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.21-12.02.30:298][162]LogAudio: Display: Audio Device (ID: 5) registered with world 'CarSelection'.
+[2024.10.21-12.02.30:299][162]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.21-12.02.30:303][162]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.21-12.02.30:305][162]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.21-12.02.30:318][162]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.21-12.02.30:322][162]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelection.CarSelection up for play (max tick rate 0) at 2024.10.22-01.02.30
+[2024.10.21-12.02.30:323][162]LogWorld: Bringing up level for play took: 0.002678
+[2024.10.21-12.02.30:351][162]LogBlueprintUserMessages: [CarSelection_UI_C_0] Cars added
+[2024.10.21-12.02.30:353][162]PIE: Server logged in
+[2024.10.21-12.02.30:354][162]PIE: Play in editor total start time 0.402 seconds.
+[2024.10.21-12.02.37:208][179]LogBlueprintUserMessages: [CarSelection_UI_C_0] 1
+[2024.10.21-12.02.41:867][191]LogNet: Browse: /Game/UI_Design/test
+[2024.10.21-12.02.41:869][191]LogLoad: LoadMap: /Game/UI_Design/test
+[2024.10.21-12.02.41:869][191]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelection
+[2024.10.21-12.02.41:880][191]LogWorld: UWorld::CleanupWorld for CarSelection, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.02.41:883][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.02.41:923][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-12.02.42:045][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.10.21-12.02.42:048][191]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.10.21-12.02.42:474][191]LogAudio: Display: Audio Device (ID: 5) registered with world 'test'.
+[2024.10.21-12.02.42:475][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.02.42:475][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.02.42:476][191]LogAIModule: Creating AISystem for world test
+[2024.10.21-12.02.42:512][191]LogPlayLevel: PIE: World Init took: (0.038114s)
+[2024.10.21-12.02.42:533][191]LogLoad: Game class is 'GameModeBase'
+[2024.10.21-12.02.42:578][191]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_test.test up for play (max tick rate 0) at 2024.10.22-01.02.42
+[2024.10.21-12.02.42:580][191]LogWorld: Bringing up level for play took: 0.035866
+[2024.10.21-12.02.42:586][191]LogLoad: Took 0.716346 seconds to LoadMap(/Game/UI_Design/test)
+[2024.10.21-12.02.50:317][334]LogViewport: Scene viewport resized to 1751x815, mode Windowed.
+[2024.10.21-12.02.50:538][335]LogViewport: Scene viewport resized to 1751x1058, mode Windowed.
+[2024.10.21-12.02.50:956][336]LogViewport: Scene viewport resized to 1751x1177, mode Windowed.
+[2024.10.21-12.02.51:416][339]LogViewport: Scene viewport resized to 1751x1176, mode Windowed.
+[2024.10.21-12.02.59:664][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-12.02.59:664][377]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_test
+[2024.10.21-12.02.59:664][377]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.02.59:665][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.02.59:687][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-12.02.59:695][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.02.59:723][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-12.02.59:723][377]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.21-12.02.59:725][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.21-12.02.59:729][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.21-12.02.59:763][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.10.21-12.02.59:824][378]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.10.21-12.03.06:043][403]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-12.03.06:061][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-12.03.06:061][403]PIE: New page: PIE session: CarSelection (22/10/2024, 2:03:06 pm)
+[2024.10.21-12.03.06:061][403]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2024.10.21-12.03.06:067][403]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.10.21-12.03.06:330][404]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelection
+[2024.10.21-12.03.06:341][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011373s)
+[2024.10.21-12.03.06:341][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelection.CarSelection to /Game/UI_Design/UEDPIE_0_CarSelection.CarSelection (0.011504s)
+[2024.10.21-12.03.06:386][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2024.10.21-12.03.06:388][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.03.06:388][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.03.06:390][404]LogAIModule: Creating AISystem for world CarSelection
+[2024.10.21-12.03.06:392][404]LogPlayLevel: PIE: World Init took: (0.002128s)
+[2024.10.21-12.03.06:392][404]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.21-12.03.06:392][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-12.03.06:392][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-12.03.06:392][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-12.03.06:392][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-12.03.06:392][404]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.21-12.03.06:392][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-12.03.06:392][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.21-12.03.06:392][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-12.03.06:393][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-12.03.06:393][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-12.03.06:393][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-12.03.06:399][404]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-12.03.06:676][404]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.21-12.03.06:676][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-12.03.06:676][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-12.03.06:676][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-12.03.06:678][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.21-12.03.06:678][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.10.21-12.03.06:683][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.21-12.03.06:683][404]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.21-12.03.06:683][404]LogAudio: Display: Audio Device (ID: 6) registered with world 'CarSelection'.
+[2024.10.21-12.03.06:683][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.21-12.03.06:683][404]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.21-12.03.06:683][404]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.21-12.03.06:683][404]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.21-12.03.06:689][404]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.21-12.03.06:691][404]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelection.CarSelection up for play (max tick rate 0) at 2024.10.22-01.03.06
+[2024.10.21-12.03.06:692][404]LogWorld: Bringing up level for play took: 0.002991
+[2024.10.21-12.03.06:696][404]LogBlueprintUserMessages: [CarSelection_UI_C_0] Cars added
+[2024.10.21-12.03.06:696][404]PIE: Server logged in
+[2024.10.21-12.03.06:698][404]PIE: Play in editor total start time 0.637 seconds.
+[2024.10.21-12.03.18:455][428]LogNet: Browse: /Game/UI_Design/test
+[2024.10.21-12.03.18:455][428]LogLoad: LoadMap: /Game/UI_Design/test
+[2024.10.21-12.03.18:455][428]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelection
+[2024.10.21-12.03.18:456][428]LogWorld: UWorld::CleanupWorld for CarSelection, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.03.18:457][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.03.18:497][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-12.03.18:780][428]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2024.10.21-12.03.18:784][428]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.10.21-12.03.18:808][428]LogAudio: Display: Audio Device (ID: 6) registered with world 'test'.
+[2024.10.21-12.03.18:808][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.03.18:808][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.03.18:810][428]LogAIModule: Creating AISystem for world test
+[2024.10.21-12.03.18:810][428]LogPlayLevel: PIE: World Init took: (0.002179s)
+[2024.10.21-12.03.18:810][428]LogLoad: Game class is 'GameModeBase'
+[2024.10.21-12.03.18:811][428]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_test.test up for play (max tick rate 0) at 2024.10.22-01.03.18
+[2024.10.21-12.03.18:812][428]LogWorld: Bringing up level for play took: 0.001660
+[2024.10.21-12.03.18:815][428]LogLoad: Took 0.360325 seconds to LoadMap(/Game/UI_Design/test)
+[2024.10.21-12.03.19:606][431]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.10.21-12.03.24:942][453]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=6
+[2024.10.21-12.03.24:942][453]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.21-12.03.50:985][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-12.03.50:985][658]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_test
+[2024.10.21-12.03.50:985][658]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.03.50:987][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.03.51:561][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-12.03.51:643][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.03.51:975][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-12.03.51:981][658]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.21-12.03.51:982][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.21-12.03.52:016][658]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.21-12.03.52:509][658]LogUObjectHash: Compacting FUObjectHashTables data took  47.77ms
+[2024.10.21-12.03.53:666][658]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.21-12.03.57:170][659]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.10.21-12.04.03:474][663]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.21-12.05.14:903][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:755][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.09:756][ 97]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.06.34:185][236]LogSlate: Window 'Create New Blueprint' being destroyed
+[2024.10.21-12.07.18:852][391]LogViewport: Scene viewport resized to 1751x1092, mode Windowed.
+[2024.10.21-12.07.19:030][392]LogViewport: Scene viewport resized to 1751x922, mode Windowed.
+[2024.10.21-12.07.19:271][393]LogViewport: Scene viewport resized to 1751x724, mode Windowed.
+[2024.10.21-12.07.19:441][394]LogViewport: Scene viewport resized to 1751x721, mode Windowed.
+[2024.10.21-12.07.19:687][395]LogViewport: Scene viewport resized to 1751x723, mode Windowed.
+[2024.10.21-12.07.22:043][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.10.21-12.07.22:247][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.07.22:250][419]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI_Design/test.test
+[2024.10.21-12.07.22:250][419]Cmd: MAP LOAD FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.21-12.07.22:250][419]LightingResults: New page: Lighting Build
+[2024.10.21-12.07.22:250][419]LoadErrors: New page: Loading map: test.umap
+[2024.10.21-12.07.22:282][419]LogWorld: UWorld::CleanupWorld for CarSelection, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.07.22:282][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.07.22:282][419]MapCheck: New page: Map Check
+[2024.10.21-12.07.22:282][419]LightingResults: New page: Lighting Build
+[2024.10.21-12.07.22:301][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-12.07.22:305][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.10.21-12.07.22:308][419]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.07.22:308][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.07.22:332][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.10.21-12.07.22:355][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.10.21-12.07.22:365][419]LogAudio: Display: Audio Device (ID: 1) registered with world 'test'.
+[2024.10.21-12.07.22:365][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.07.22:366][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.07.22:366][419]LogAIModule: Creating AISystem for world test
+[2024.10.21-12.07.22:453][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.21-12.07.22:473][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.10.21-12.07.22:479][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.21-12.07.22:479][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2024.10.21-12.07.59:459][622]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/UI_Design/test.test:PersistentLevel.test
+[2024.10.21-12.07.59:461][622]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.07.59:461][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.09.42:845][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.BP_SUV_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:846][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.BP_SUV_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:847][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/BP_SUV.BP_SUV_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:847][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.BP_SportsCar_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:847][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.BP_SC_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:848][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.BP_SC_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:848][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.BP_PU_Wheel_Rear_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:849][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.BP_PU_Wheel_Front_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:850][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.BP_Pickup_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:851][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.BP_HB_RearWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:851][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.BP_HB_FrontWheel_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:851][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.BP_Hatchback_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:851][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.BP_BT_RearTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:852][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.BP_BT_FrontTire_C has parent /Script/PhysXVehicles.VehicleWheel, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:852][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.BP_BoxTruck_C has parent /Script/PhysXVehicles.WheeledVehicle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:852][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SUV/AB_SUV.AB_SUV_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:852][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.AB_SportsCar_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:853][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.AB_Pickup_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:853][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.AB_Hatchback_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.09.42:853][162]LogEditorClassViewer: Warning: Class /Game/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.AB_BoxTruck_C has parent /Script/PhysXVehicles.VehicleAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.21-12.10.30:092][  0]LogUObjectHash: Compacting FUObjectHashTables data took  42.80ms
+[2024.10.21-12.10.30:310][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.21-12.10.31:885][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/test" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.21-12.10.31:935][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.21-12.10.31:953][  0]LogSavePackage: Moving output files for package: /Game/UI_Design/test
+[2024.10.21-12.10.31:954][  0]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/test6576A8C14FC4C12556E0A5B609841CE9.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/test.umap'
+[2024.10.21-12.10.31:965][  0]LogFileHelpers: Saving map 'test' took 0.080
+[2024.10.21-12.10.31:973][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Design/GameMode/CarSelectionGameMode" FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/GameMode/CarSelectionGameMode.uasset" SILENT=true
+[2024.10.21-12.10.31:978][  0]LogSavePackage: Moving output files for package: /Game/UI_Design/GameMode/CarSelectionGameMode
+[2024.10.21-12.10.31:978][  0]LogSavePackage: Moving '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Saved/CarSelectionGameMode0F6C6B0745571BCCD404F28716D4BCB6.tmp' to '../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/GameMode/CarSelectionGameMode.uasset'
+[2024.10.21-12.10.31:996][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.68 sec (total: 6.82 sec)
+[2024.10.21-12.10.32:003][  0]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.21-12.10.32:003][  0]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI_Design/test.test
+[2024.10.21-12.10.32:003][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI_Design/GameMode/CarSelectionGameMode.CarSelectionGameMode
+[2024.10.21-12.10.37:291][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.10.21-12.10.37:417][105]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.10.37:423][105]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI_Design/CarSelection.CarSelection
+[2024.10.21-12.10.37:423][105]Cmd: MAP LOAD FILE="../../../../../../Racing_Game/CS-205-Racing-Game/Car/Content/UI_Design/CarSelection.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.21-12.10.37:423][105]LightingResults: New page: Lighting Build
+[2024.10.21-12.10.37:423][105]LoadErrors: New page: Loading map: CarSelection.umap
+[2024.10.21-12.10.37:492][105]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.10.37:492][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.10.37:531][105]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.10.37:531][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.10.37:531][105]MapCheck: New page: Map Check
+[2024.10.21-12.10.37:531][105]LightingResults: New page: Lighting Build
+[2024.10.21-12.10.37:549][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-12.10.37:553][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.10.21-12.10.37:559][105]LogWorld: UWorld::CleanupWorld for CarSelection, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.10.37:559][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.10.37:579][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.21-12.10.37:600][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.10.21-12.10.37:612][105]LogAudio: Display: Audio Device (ID: 1) registered with world 'CarSelection'.
+[2024.10.21-12.10.37:613][105]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.10.37:613][105]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.10.37:613][105]LogAIModule: Creating AISystem for world CarSelection
+[2024.10.21-12.10.37:743][105]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.21-12.10.37:773][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.10.21-12.10.37:783][105]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.21-12.10.37:783][105]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2024.10.21-12.10.43:558][126]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.21-12.10.43:573][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.21-12.10.43:573][126]PIE: New page: PIE session: CarSelection (22/10/2024, 2:10:43 pm)
+[2024.10.21-12.10.43:574][126]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2024.10.21-12.10.43:578][126]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.10.21-12.10.43:823][127]LogPlayLevel: Creating play world package: /Game/UI_Design/UEDPIE_0_CarSelection
+[2024.10.21-12.10.43:832][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008820s)
+[2024.10.21-12.10.43:832][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI_Design/CarSelection.CarSelection to /Game/UI_Design/UEDPIE_0_CarSelection.CarSelection (0.008904s)
+[2024.10.21-12.10.43:855][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.10.21-12.10.43:859][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.10.43:859][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.10.43:860][127]LogAIModule: Creating AISystem for world CarSelection
+[2024.10.21-12.10.43:860][127]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2024.10.21-12.10.43:860][127]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.21-12.10.43:860][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.21-12.10.43:860][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.21-12.10.43:860][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.21-12.10.43:860][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.21-12.10.43:860][127]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.21-12.10.43:861][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.21-12.10.43:861][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.21-12.10.43:861][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.21-12.10.43:861][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.21-12.10.43:861][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.21-12.10.43:861][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.21-12.10.43:863][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.21-12.10.44:046][127]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.21-12.10.44:046][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.21-12.10.44:046][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.21-12.10.44:046][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.21-12.10.44:049][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.10.21-12.10.44:049][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.10.21-12.10.44:051][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.10.21-12.10.44:051][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.10.21-12.10.44:051][127]LogInit: FAudioDevice initialized with ID 7.
+[2024.10.21-12.10.44:051][127]LogAudio: Display: Audio Device (ID: 7) registered with world 'CarSelection'.
+[2024.10.21-12.10.44:052][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.21-12.10.44:052][127]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.10.21-12.10.44:052][127]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.10.21-12.10.44:144][127]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.21-12.10.44:145][127]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_CarSelection.CarSelection up for play (max tick rate 60) at 2024.10.22-01.10.44
+[2024.10.21-12.10.44:145][127]LogWorld: Bringing up level for play took: 0.001226
+[2024.10.21-12.10.44:149][127]LogBlueprintUserMessages: [CarSelection_UI_C_0] Cars added
+[2024.10.21-12.10.44:149][127]PIE: Server logged in
+[2024.10.21-12.10.44:150][127]PIE: Play in editor total start time 0.577 seconds.
+[2024.10.21-12.11.06:297][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DBE900) on the [0x000009E13344E300, 3D] queue has not completed after 5.000002 seconds.
+[2024.10.21-12.11.06:300][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DBC000) on the [0x000009E13344E300, 3D] queue has not completed after 6.951940 seconds.
+[2024.10.21-12.11.07:924][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DB4400) on the [0x000009E13344E300, 3D] queue has not completed after 8.563620 seconds.
+[2024.10.21-12.11.08:315][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DBFF00) on the [0x000009E13344E300, 3D] queue has not completed after 8.941075 seconds.
+[2024.10.21-12.11.08:345][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DBC100) on the [0x000009E13344E300, 3D] queue has not completed after 8.944760 seconds.
+[2024.10.21-12.11.08:374][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DB9D00) on the [0x000009E13344E300, 3D] queue has not completed after 8.963196 seconds.
+[2024.10.21-12.11.08:487][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DBF600) on the [0x000009E13344E300, 3D] queue has not completed after 8.993068 seconds.
+[2024.10.21-12.11.08:489][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DB3800) on the [0x000009E13344E300, 3D] queue has not completed after 8.992202 seconds.
+[2024.10.21-12.11.08:491][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DBE000) on the [0x000009E13344E300, 3D] queue has not completed after 8.985202 seconds.
+[2024.10.21-12.11.08:499][132]LogD3D12RHI: Warning: GPU timeout: A payload (0x000009E150DB3100) on the [0x000009E13344E300, 3D] queue has not completed after 8.964881 seconds.
+[2024.10.21-12.11.13:410][144]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.10.21-12.11.14:019][149]LogBlueprintUserMessages: [CarSelection_UI_C_0] 1
+[2024.10.21-12.11.16:706][170]LogNet: Browse: /Game/UI_Design/test
+[2024.10.21-12.11.16:707][170]LogLoad: LoadMap: /Game/UI_Design/test
+[2024.10.21-12.11.16:707][170]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_CarSelection
+[2024.10.21-12.11.16:708][170]LogWorld: UWorld::CleanupWorld for CarSelection, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.11.16:709][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.11.16:737][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-12.11.16:837][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.10.21-12.11.16:845][170]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.10.21-12.11.16:858][170]LogAudio: Display: Audio Device (ID: 7) registered with world 'test'.
+[2024.10.21-12.11.16:858][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.21-12.11.16:858][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.21-12.11.16:859][170]LogAIModule: Creating AISystem for world test
+[2024.10.21-12.11.16:859][170]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2024.10.21-12.11.16:859][170]LogLoad: Game class is 'CarSelectionGameMode_C'
+[2024.10.21-12.11.16:861][170]LogWorld: Bringing World /Game/UI_Design/UEDPIE_0_test.test up for play (max tick rate 60) at 2024.10.22-01.11.16
+[2024.10.21-12.11.16:861][170]LogWorld: Bringing up level for play took: 0.001230
+[2024.10.21-12.11.16:863][170]LogLoad: Took 0.155404 seconds to LoadMap(/Game/UI_Design/test)
+[2024.10.21-12.11.28:638][276]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.21-12.11.40:099][284]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2024.10.21-12.11.46:149][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-12.11.46:150][285]LogWorld: BeginTearingDown for /Game/UI_Design/UEDPIE_0_test
+[2024.10.21-12.11.46:151][285]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2024.10.21-12.11.46:153][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.11.46:519][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.21-12.11.46:679][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.21-12.11.47:106][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.21-12.11.47:109][285]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.21-12.11.47:110][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.21-12.11.47:144][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.21-12.11.49:426][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.21-12.11.49:586][285]LogUObjectHash: Compacting FUObjectHashTables data took 118.24ms
+[2024.10.21-12.11.51:348][285]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.10.21-12.11.52:399][286]LogPlayLevel: Display: Destroying online subsystem :Context_36
