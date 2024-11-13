@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+Content/MS_CityStreV1/Megascans_CityStreV1_Source.zip
+Content/MS_CityStreV1/Maps/Overview.umap
+
 # Compiled Object files
 *.slo
 *.lo
